@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nt3_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.5">
+	<portals>
+		<portal id="legacy_portal" _delta="delete" /> <!-- TODO: voir si opportun de renommer au lieu de delete+define -->
+		<portal id="nt3-portal" _delta="define"><!-- ID must match module_design[id] -->
+			<url>pages/exec.php?exec_module=nt3-portal-base&amp;exec_page=index.php&amp;portal_id=nt3-portal</url><!-- portal_id	 must match module_design[id] -->
+			<rank>1.0</rank>
+			<handler />
+			<allow>
+			</allow>
+			<deny />
+		</portal>
+	</portals>
+</nt3_design>

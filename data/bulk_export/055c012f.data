@@ -1,0 +1,93 @@
+<table class="listResults">
+<thead>
+<tr>
+<th>id (Primary Key)</th>
+<th>Title</th>
+<th>Organization</th>
+<th>Caller</th>
+<th>Start date</th>
+<th>Status</th>
+<th>Agent</th>
+<th>Assignment date</th>
+<th>Close date</th>
+<th>Cumulated pending</th>
+<th>Description</th>
+<th>End date</th>
+<th>Hot Flag</th>
+<th>Hot reason</th>
+<th>Impact</th>
+<th>Last pending date</th>
+<th>Last update</th>
+<th>Operational status</th>
+<th>Origin</th>
+<th>Pending reason</th>
+<th>Priority</th>
+<th>Private log</th>
+<th>Public log</th>
+<th>Ref</th>
+<th>Resolution code</th>
+<th>Resolution date</th>
+<th>Resolution delay</th>
+<th>Solution</th>
+<th>Ticket sub-class</th>
+<th>Urgency</th>
+<th>User comment</th>
+<th>User satisfaction</th>
+<th>Agent->Full name</th>
+<th>Agent->Last Name</th>
+<th>Agent->Obsolete</th>
+<th>Agent->First Name</th>
+<th>Agent->Organization</th>
+<th>Agent->Organization name</th>
+<th>Agent->Email</th>
+<th>Agent->Employee number</th>
+<th>Caller->Full name</th>
+<th>Caller->Last Name</th>
+<th>Caller->Obsolete</th>
+<th>Caller->First Name</th>
+<th>Caller->Organization</th>
+<th>Caller->Organization name</th>
+<th>Caller->Email</th>
+<th>Caller->Employee number</th>
+<th>Organization->Name</th>
+<th>Organization->Full name</th>
+<th>Organization->Obsolete</th>
+<th>Organization->Code</th>
+<th>Parent change</th>
+<th>Parent change->Ref</th>
+<th>Parent change->Full name</th>
+<th>Parent change->Ticket sub-class</th>
+<th>Parent incident</th>
+<th>Parent incident->Ref</th>
+<th>Parent incident->Full name</th>
+<th>Service</th>
+<th>Service->Name</th>
+<th>Service->Full name</th>
+<th>Service->Provider</th>
+<th>Service->Provider Name</th>
+<th>Service subcategory</th>
+<th>Service subcategory->Name</th>
+<th>Service subcategory->Full name</th>
+<th>Service subcategory->Service</th>
+<th>Service subcategory->Service name</th>
+<th>Team</th>
+<th>Team->Full name</th>
+<th>Team->Email</th>
+<th>Team->Obsolete</th>
+<th>Team->Name</th>
+<th>Team->Organization</th>
+<th>Team->Organization name</th>
+<th>parent problem id</th>
+<th>parent problem id->Ref</th>
+<th>parent problem id->Full name</th>
+<th>TTO Deadline</th>
+<th>SLA tto passed</th>
+<th>SLA tto over</th>
+<th>TTR Deadline</th>
+<th>SLA ttr passed</th>
+<th>SLA ttr over</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td><span class="object-ref " title="Incident::197"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Incident&id=197&">I-000197</a></span></td><td>Ticket raise#2</td><td><span class="object-ref " title="Organization::33"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=33&">Relience</a></span></td><td><span class="object-ref " title="Person::145"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Person&id=145&">Ravindra Maurya</a></span></td><td>2019-04-05 09:34:09</td><td><span title="">Resolved</span></td><td><span class="object-ref " title="Person::142"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Person&id=142&">Nilesh Vishwa</a></span></td><td>2019-04-05 09:34:16</td><td>&nbsp;</td><td>0</td><td><div class="HTML" ><p><a href="mailto:sonali.kate@nectarinfotel.com">p</a>erformance slow issue</p></div></td><td>&nbsp;</td><td><span title="No">No</span></td><td>&nbsp;</td><td><span title="">A department</span></td><td>&nbsp;</td><td>2019-04-05 09:34:55</td><td><span title="">Resolved</span></td><td><span title="phone">phone</span></td><td><div ></div></td><td><span title="low">low</span></td><td><ul class="case_log_simple_html"></ul></td><td><ul class="case_log_simple_html"></ul></td><td>I-000197</td><td><span title="assistance">assistance</span></td><td>2019-04-05 09:34:55</td><td>46s</td><td><div >performance slow issue</div></td><td>Incident</td><td><span title="low">low</span></td><td><div ></div></td><td><span title="Very satisfied">Very satisfied</span></td><td>Nilesh Vishwa</td><td>Vishwa</td><td><span title="Core:AttributeObsolescenceFlag/Value:no+">No</span></td><td>Nilesh</td><td><span class="object-ref " title="Organization::32"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=32&">Nectar Infotel</a></span></td><td>Nectar Infotel</td><td><a class="mailto" href="mailto:nilesh.vishwakarma@nectarinfotel.com"><span class="text_decoration fa fa-envelope"></span>nilesh.vishwakarma@nectarinfotel.com</a></td><td>&nbsp;</td><td>Ravindra Maurya</td><td>Maurya</td><td><span title="Core:AttributeObsolescenceFlag/Value:no+">No</span></td><td>Ravindra</td><td><span class="object-ref " title="Organization::33"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=33&">Relience</a></span></td><td>Relience</td><td><a class="mailto" href="mailto:ravindra.maurya@nectarinfotel.com"><span class="text_decoration fa fa-envelope"></span>ravindra.maurya@nectarinfotel.com</a></td><td>&nbsp;</td><td>Relience</td><td>Relience</td><td><span title="Core:AttributeObsolescenceFlag/Value:no+">No</span></td><td>1002</td><td><em>undefined</em></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td><em>undefined</em></td><td>&nbsp;</td><td>&nbsp;</td><td><span class="object-ref " title="Service::16"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Service&id=16&">Relience service</a></span></td><td>Relience service</td><td>Relience service</td><td><span class="object-ref " title="Organization::32"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=32&">Nectar Infotel</a></span></td><td>Nectar Infotel</td><td><span class="object-ref " title="Service Subcategory::34"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=ServiceSubcategory&id=34&">Internet service</a></span></td><td>Internet service</td><td>Internet service</td><td><span class="object-ref " title="Service::16"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Service&id=16&">Relience service</a></span></td><td>Relience service</td><td><span class="object-ref " title="Team::143"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Team&id=143&">Nectar Dev Team</a></span></td><td>Nectar Dev Team</td><td><a class="mailto" href="mailto:sonali.kate@nectarinfotel.com"><span class="text_decoration fa fa-envelope"></span>sonali.kate@nectarinfotel.com</a></td><td><span title="Core:AttributeObsolescenceFlag/Value:no+">No</span></td><td>Nectar Dev Team</td><td><span class="object-ref " title="Organization::32"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=32&">Nectar Infotel</a></span></td><td>Nectar Infotel</td><td><em>undefined</em></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>no</td><td>0s</td><td>&nbsp;</td><td>no</td><td>0s</td></tr>

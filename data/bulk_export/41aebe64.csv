@@ -1,0 +1,5 @@
+"Login","Type of account","Contact (person)->First Name","Contact (person)->Last Name","Status","Contact (person)->Organization","Language","id (Primary Key)","Contact (person)","Contact (person)->Full name","Contact (person)->Email","Contact (person)->Obsolete","Contact (person)->Organization","Contact (person)->Obsolete","Contact (person)->Organization name","Contact (person)->Employee number"
+"admin","NT3 user","Vidyadhar","Yellaram","Enabled",32,"EN US",1,140,"Vidyadhar Yellaram","vidyadhar@nectarinfotel.com",No,"Nectar Infotel",No,"Nectar Infotel",""
+"rajeet.singh@nectarinfotel.com","NT3 user","Rajeet","Singh","Enabled",33,"EN US",37,144,"Rajeet Singh","rajeet.singh@nectarinfotel.com",No,"Relience",No,"Relience",""
+"ravindra.maurya@nectarinfotel.com","NT3 user","Ravindra","Maurya","Enabled",33,"EN US",38,145,"Ravindra Maurya","ravindra.maurya@nectarinfotel.com",No,"Relience",No,"Relience",""
+"sonali.kate@nectarinfotel.com","NT3 user","Sonali","Kate","Enabled",32,"EN US",39,141,"Sonali Kate","sonali.kate@nectarinfotel.com",No,"Nectar Infotel",No,"Nectar Infotel",""

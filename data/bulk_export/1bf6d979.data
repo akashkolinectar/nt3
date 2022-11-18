@@ -1,0 +1,12 @@
+<table class="listResults">
+<thead>
+<tr>
+<th>id (Primary Key)</th>
+<th>Provider</th>
+<th>Status</th>
+<th>Service Family</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td><span class="object-ref " title="Service::16"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Service&id=16&">Relience service</a></span></td><td><span class="object-ref " title="Organization::32"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=32&">Nectar Infotel</a></span></td><td><span title="">production</span></td><td><span class="object-ref " title="Service Family::3"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=ServiceFamily&id=3&">Service family Relience</a></span></td></tr><tr><td><span class="object-ref " title="Service::15"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Service&id=15&">Software services</a></span></td><td><span class="object-ref " title="Organization::32"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=32&">Nectar Infotel</a></span></td><td><span title="">production</span></td><td><span class="object-ref " title="Service Family::2"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=ServiceFamily&id=2&">Nectar service family</a></span></td></tr>

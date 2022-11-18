@@ -1,0 +1,11 @@
+<table class="listResults">
+<thead>
+<tr>
+<th>id (Primary Key)</th>
+<th>Trigger sub-class</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td><span class="object-ref " title="Trigger (on entering a state)::2"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=TriggerOnStateEnter&id=2&">Trigger testing</a></span></td><td>Trigger (on entering a state)</td><td>Trigger testing</td></tr><tr><td><span class="object-ref " title="Trigger (on entering a state)::1"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=TriggerOnStateEnter&id=1&">Trigger when a Request is assigned</a></span></td><td>Trigger (on entering a state)</td><td>Trigger when a Request is assigned</td></tr>

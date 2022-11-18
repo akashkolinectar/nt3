@@ -1,0 +1,160 @@
+Site : MUXIMA KOTANDO AND NetType: BTS AND Network : Celular***
+Site : Comandante Nzangi 2  AND NetType: BTS AND Network : Celular***
+Site : Sra do Monte AND NetType: BTS AND Network : Celular***
+Site : Calemba 2 Sapú AND NetType: BTS AND Network : Celular***
+Site : Vila Nandó AND NetType: BTS AND Network : Celular***
+Site : Largo da Independenc AND NetType: BTS AND Network : Celular***
+Site : Tchiueca AND NetType: BTS AND Network : Celular***
+Site : Central Lobito AND NetType: BTS AND Network : Celular***
+Site : Loja Lobito  AND NetType: ROUTER AND Network : IP***
+Site : Loja Moxico AND NetType: ROUTER AND Network : IP***
+Site : Mussura AND NetType: BTS AND Network : Celular***
+Site : Nzeto Repeat AND NetType: BTS AND Network : Celular***
+Site : Sede AND NetType: ROUTER AND Network : IP***
+Site : GINGA SHOPING AND NetType: ROUTER AND Network : IP***
+Site : Dundo-LOJA AND NetType: ROUTER AND Network : IP***
+Site : Bairro Aviação AND NetType: BTS AND Network : Celular***
+Site : Fátima AND NetType: BTS AND Network : Celular***
+Site : Catoca Modulo 2 AND NetType: BTS AND Network : Celular***
+Site : Xamilengue AND NetType: BTS AND Network : Celular***
+Site : HUBCS01 AND NetType: BSC AND Network : Celular***
+Site : Quintalão do Petro AND NetType: BTS AND Network : Celular***
+Site : Sapú AND NetType: BTS AND Network : Celular***
+Site : Funda Cowboy1 AND NetType: BTS AND Network : Celular***
+Site : Repetidor Xa Muteba  AND NetType: BTS AND Network : Celular***
+Site : Vila Flor Comissão 2 AND NetType: BTS AND Network : Celular***
+Site : Loja Namibe AND NetType: ROUTER AND Network : IP***
+Site : Terra Nova (Icazo) AND NetType: BTS AND Network : Celular***
+Site : Zona Verde 3 AND NetType: BTS AND Network : Celular***
+Site : São Brás AND NetType: BTS AND Network : Celular***
+Site : Cabeça de Cobra AND NetType: BTS AND Network : Celular***
+Site : Zango ED_III-1-1 AND NetType: BTS AND Network : Celular***
+Site : Adriano Pedro Lopes AND NetType: CLIENT AND Network : Satisfação cliente***
+Site : Mato Grosso AND NetType: BTS AND Network : Celular***
+Site : Saurimo-Loja AND NetType: ROUTER AND Network : IP***
+Site : Maria do Céu 1 AND NetType: BTS AND Network : Celular***
+Site : Huila BSC AND NetType: BSC AND Network : Celular***
+Site : Benguela BSC01 AND NetType: BSC AND Network : Celular***
+Site : Comandante Nzagi AND NetType: BTS AND Network : Celular***
+Site : Chimalevara AND NetType: BTS AND Network : Celular***
+Site : Wakukungo AND NetType: BTS AND Network : Celular***
+Site : Servidor AND NetType: DNS AND Network : IP***
+Site : Quifuata (Vista Aleg AND NetType: BTS AND Network : Celular***
+Site : Huila AND NetType: ROUTER AND Network : IP***
+Site : Loja Viana Vila AND NetType: ROUTER AND Network : IP***
+Site : Lojz Kero Nova Vida AND NetType: ROUTER AND Network : IP***
+Site : Petrangol Soldafil AND NetType: BTS AND Network : Celular***
+Site : Mussulo Administraçã AND NetType: BTS AND Network : Celular***
+Site : Yema AND NetType: BTS AND Network : Celular***
+Site : Quilengues Repeat AND NetType: BTS AND Network : Celular***
+Site : Mussende Kikuxi AND NetType: BTS AND Network : Celular***
+Site : Tchinjenje AND NetType: BTS AND Network : Celular***
+Site : Golf IV AND NetType: BTS AND Network : Celular***
+Site : Katabola AND NetType: BTS AND Network : Celular***
+Site : Bita São José AND NetType: BTS AND Network : Celular***
+Site : Viana Sacrifício AND NetType: BTS AND Network : Celular***
+Site : São José AND NetType: BTS AND Network : Celular***
+Site : Kimavongo AND NetType: BTS AND Network : Celular***
+Site : Quinzau AND NetType: BTS AND Network : Celular***
+Site : Central Huambo AND NetType: BTS AND Network : Celular***
+Site : Cabala AND NetType: BTS AND Network : Celular***
+Site : Bailundo Administraç AND NetType: BTS AND Network : Celular***
+Site : Tocoto AND NetType: BTS AND Network : Celular***
+Site : Compão AND NetType: BTS AND Network : Celular***
+Site : Cambinbe AND NetType: BTS AND Network : Celular***
+Site : Tchivinguiro AND NetType: BTS AND Network : Celular***
+Site : Escola 1 de Dezembro AND NetType: BTS AND Network : Celular***
+Site : Kilamba_S_21 AND NetType: BTS AND Network : Celular***
+Site : Kilamba_C_29 AND NetType: BTS AND Network : Celular***
+Site : Kilamba_W_23 AND NetType: BTS AND Network : Celular***
+Site : Cautada AND NetType: BTS AND Network : Celular***
+Site : Quinzala BKB AND NetType: BTS AND Network : Celular***
+Site : Joao Almeida AND NetType: BTS AND Network : Celular***
+Site : Quinzau 2 AND NetType: BTS AND Network : Celular***
+Site : Luanda MGW1 AND NetType: MGW AND Network : Celular***
+Site : Luanda MGW 2 AND NetType: MGW AND Network : Celular***
+Site : Quessua AND NetType: BTS AND Network : Celular***
+Site : Dambas AND NetType: BTS AND Network : Celular***
+Site : Mutões AND NetType: BTS AND Network : Celular***
+Site : Santa Clara AND NetType: BTS AND Network : Celular***
+Site : Loja Ndalatando AND NetType: BTS AND Network : Celular***
+Site : Calombotão AND NetType: BTS AND Network : Celular***
+Site : Tombua AND NetType: BTS AND Network : Celular***
+Site : Beliza AND NetType: BTS AND Network : Celular***
+Site : Novo Park AND NetType: BTS AND Network : Celular***
+Site : Reco Lixo AND NetType: BTS AND Network : Celular***
+Site : Edificio Laureano AND NetType: BTS AND Network : Celular***
+Site : Kangandala AND NetType: BTS AND Network : Celular***
+Site : Prenda Laboratório AND NetType: BTS AND Network : Celular***
+Site : Madombes AND NetType: BTS AND Network : Celular***
+Site : Mambula AND NetType: BTS AND Network : Celular***
+Site : Chongoroi Repeat AND NetType: BTS AND Network : Celular***
+Site : Handja (Back Bone) AND NetType: BTS AND Network : Celular***
+Site : Ica Central AND NetType: BTS AND Network : Celular***
+Site : Pedreira Zona 3 AND NetType: BTS AND Network : Celular***
+Site : Buco-Zau AND NetType: BTS AND Network : Celular***
+Site : Camama Bairro Milita AND NetType: BTS AND Network : Celular***
+Site : Granda 2 AND NetType: BTS AND Network : Celular***
+Site : Aeroporto 4 Fev Outd AND NetType: BTS AND Network : Celular***
+Site : Muxima Via AND NetType: BTS AND Network : Celular***
+Site : Catete-Cidade(SDR) AND NetType: BTS AND Network : Celular***
+Site : Zango 2 Instituto Mé AND NetType: BTS AND Network : Celular***
+Site : Macagos AND NetType: BTS AND Network : Celular***
+Site : Bairro da Luz AND NetType: BTS AND Network : Celular***
+Site : Cacuaco C. Cultural AND NetType: BTS AND Network : Celular***
+Site : Wesa Paradise AND NetType: BTS AND Network : Celular***
+Site : Bailundo Nova Centra AND NetType: BTS AND Network : Celular***
+Site : Caxito(SDR) AND NetType: BTS AND Network : Celular***
+Site : Cemitério_14 AND NetType: BTS AND Network : Celular***
+Site : Central Uige AND NetType: BTS AND Network : Celular***
+Site : TCHOVOLA AND NetType: BTS AND Network : Celular***
+Site : Viana Parque Industr AND NetType: BTS AND Network : Celular***
+Site : Estadio de Futebol AND NetType: BTS AND Network : Celular***
+Site : Capenda Kamulemba AND NetType: BTS AND Network : Celular***
+Site : C_CACUACO_B12_1 AND NetType: BTS AND Network : Celular***
+Site : C_Cacuaco_B6 AND NetType: BTS AND Network : Celular***
+Site : C_Cacuaco_Kero AND NetType: BTS AND Network : Celular***
+Site : Loja Kero Cacuaco AND NetType: ROUTER AND Network : IP***
+Site : Mapunda 4 AND NetType: BTS AND Network : Celular***
+Site : Coreia477 AND NetType: BTS AND Network : Celular***
+Site : Torre do Carmo AND NetType: BTS AND Network : Celular***
+Site : Kapanda AND NetType: BTS AND Network : Celular***
+Site : Kilamba_Q_19 AND NetType: BTS AND Network : Celular***
+Site : Hospital Geral de Be AND NetType: BTS AND Network : Celular***
+Site : Camama 1 Progresso AND NetType: BTS AND Network : Celular***
+Site : Cafunfo AND NetType: BTS AND Network : Celular***
+Site : Kicolo Bom Pastor AND NetType: BTS AND Network : Celular***
+Site : CAMAMA NZINGA MBANDI AND NetType: BTS AND Network : Celular***
+Site : Unkuluvala AND NetType: BTS AND Network : Celular***
+Site : M´Banza Congo AND NetType: BTS AND Network : Celular***
+Site : Caculo Cabaça AND NetType: BTS AND Network : Celular***
+Site : Cazenga Aviário AND NetType: BTS AND Network : Celular***
+Site : Cahula AND NetType: BTS AND Network : Celular***
+Site : Mercado Salalé AND NetType: BTS AND Network : Celular***
+Site : Viana Mirú AND NetType: BTS AND Network : Celular***
+Site : Subantando AND NetType: BTS AND Network : Celular***
+Site : Funda Terra Verde AND NetType: BTS AND Network : Celular***
+Site : Marco Histórico AND NetType: BTS AND Network : Celular***
+Site : RT_UIGE AND NetType: ROUTER AND Network : IP***
+Site : Jardin do Éden 1 AND NetType: BTS AND Network : Celular***
+Site : Ganda Repeat AND NetType: BTS AND Network : Celular***
+Site : Chipindi AND NetType: BTS AND Network : Celular***
+Site : Golf2 AND NetType: BTS AND Network : Celular***
+Site : Porto Amboin AND NetType: BTS AND Network : Celular***
+Site : Sumbe FCKS 1 AND NetType: BTS AND Network : Celular***
+Site : Sumbe FCKS 2 AND NetType: BTS AND Network : Celular***
+Site : Sumbe_Farol AND NetType: BTS AND Network : Celular***
+Site : Sumbe_VHF AND NetType: BTS AND Network : Celular***
+Site : E15 AND NetType: BTS AND Network : Celular***
+Site : Sonangol Bita Estrad AND NetType: BTS AND Network : Celular***
+Site : Seminário Maior AND NetType: BTS AND Network : Celular***
+Site : Sapú Sul AND NetType: BTS AND Network : Celular***
+Site : Hanha Repeat AND NetType: BTS AND Network : Celular***
+Site : Caparolo AND NetType: BTS AND Network : Celular***
+Site : Condé AND NetType: BTS AND Network : Celular***
+Site : Inst. I. V. AND NetType: BTS AND Network : Celular***
+Site : Cemitério Mitcha AND NetType: BTS AND Network : Celular***
+Site : Estadio Ombaca AND NetType: BTS AND Network : Celular***
+Site : Subestação AND NetType: BTS AND Network : Celular***
+Site : Viana 1º de Maio DEE AND NetType: BTS AND Network : Celular***
+Site : Km 44 Bom Jesus AND NetType: BTS AND Network : Celular***

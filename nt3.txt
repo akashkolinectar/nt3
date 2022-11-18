@@ -1,0 +1,196 @@
+
+
+1.C:\xampp\htdocs\nt3\application\nt3webpage.class.inc.php:-
+help icon removed
+
+2.Remove ENTER NT3 and write name as login for button
+3.Remove nt3 from forgot password page
+
+C:\xampp\htdocs\nt3\data\cache-production\EN US-8cd15a0
+c52a2804de372f3d129b2088a.js
+
+C:\xampp\htdocs\nt3\data\cache-production\apc-emul\nt3-3f4237c82330cebefd3071b0bc231333-production-dict-EN-US
+C:\xampp\htdocs\nt3\data\datamodel-production.xml
+C:\xampp\htdocs\nt3\data\datamodel-production.xml
+C:\xampp\htdocs\nt3\dictionaries\da.dictionary.nt3.ui.php
+C:\xampp\htdocs\nt3\dictionaries\en.dictionary.nt3.ui.php
+C:\xampp\htdocs\nt3\dictionaries\hu.dictionary.nt3.ui.php
+C:\xampp\htdocs\nt3\dictionaries\it.dictionary.nt3.ui.php:
+C:\xampp\htdocs\nt3\dictionaries\tr.dictionary.nt3.ui.php:
+C:\xampp\htdocs\nt3\dictionaries\ja.dictionary.nt3.ui.php
+C:\xampp\htdocs\nt3\dictionaries\zh.dictionary.nt3.ui.php
+C:\xampp\htdocs\nt3\env-production\dictionaries\da-da.dict.php
+C:\xampp\htdocs\nt3\env-production\dictionaries\en-us.dict.php
+C:\xampp\htdocs\nt3\env-production\dictionaries\hu-hu.dict.php
+C:\xampp\htdocs\nt3\env-production\dictionaries\it-it.dict.php
+C:\xampp\htdocs\nt3\env-production\dictionaries\ja-jp.dict.php
+C:\xampp\htdocs\nt3\env-production\dictionaries\tr-tr.dict.php
+C:\xampp\htdocs\nt3\env-production\dictionaries\zh-cn.dict.php
+
+
+4.Change nt3 logo redirecting link on dashboard page and
+5."Remove nt3 when we click on NT3 logo at
+ login page"
+C:\xampp\htdocs\nt3\core\config.class.inc.php(need to change localhost->www.nectarinfotel.com)
+
+
+6.Remove nt3 from link from standard portal(remaining)
+C:\xampp\htdocs\nt3\conf\production\config-nt3.php:
+
+
+7.Remove nt3 from search page
+8.Remove about nt3 page 
+9."Remove nt3 detail page from nectar infotel
+ logo"
+10.Remove nt3 from link from standard portal
+C:\xampp\htdocs\nt3\application\nt3webpage.class.inc.php
+
+11.Remove nt3 from tab(already removed)
+12.Remove nt3 from search page(already removed)
+13.Prefernce page can not show anything(already removed)
+
+14.Remove export to file content
+C:\xampp\htdocs\nt3\application\utils.inc.php
+
+15.Remove nt3 from each tab (http://localhost/nt3/pages/UI.php?operation=new&class=Incident&c%5Bmenu%5D=NewIncident)
+16."Remove nt3 from remove incident, search 
+for incident, new incident,incident assign to me,
+escalate to me, "
+17.Remove nt3 from business process
+18."Remove nt3 from search for business process
+object""Remove nt3 from search for business process
+object"
+19."Remove nt3 from create new
+application solution"
+20.Remove nt3 from application solution
+21."Remove nt3 from search for application solution
+object"
+22."Remove nt3 from contact,location,contract,
+server, network device"
+23.Remove nt3 from  Creation of a new Contact
+24.Remove nt3 after adding person to contact page
+25.Remove nt3 from search for contact object
+26.Remove nt3 from Creation of a new Location
+27.Remove nt3 from  Creation of a new Contract
+28.Remove nt3 from Creation of a new Server
+29."Remove nt3 from Creation of a new Server 
+after adding server"
+30.Remove nt3 from search for server object
+31."Remove nt3 from Creation of a new 
+Network Device"
+32.Remove nt3 after adding Network Device
+33.Remove nt3 from search Network Device
+34.Remove nt3 from Create new user request
+35."Remove nt3 after adding information to 
+ Create new user request"
+36.Remove nt3 from tab of printer friendly
+C:\xampp\htdocs\nt3\application\nt3webpage.class.inc.php
+C:\xampp\htdocs\nt3\js\breadcrumb.js
+
+37.Prefernce page can not show anything
+
+38.Removing business process and all other except contact module
+C:\xampp\htdocs\nt3\application\displayblock.class.inc.php
+
+39.removed user request/helpdesk and layout module
+
+C:\xampp\htdocs\nt3\application\displayblock.class.inc.php
+C:\xampp\htdocs\nt3\application\dashlet.class.inc.php
+
+40.Removing edit tab
+htdocs\nt3\application\dashboard.class.inc.php
+
+
+41.write powered by and nt3->nt3ticketing tool
+C:\xampp\htdocs\nt3\application\nt3webpage.class.inc.php
+
+42.removing CIS and work order
+nt3->application->webpage.class.inc
+
+43.replaced nt3-error to nt3-error
+C:\xampp\htdocs\nt3\application\nt3webpage.class.inc.php
+
+44.replace nt3 cannot continue to nt3 cannot continue
+C:\xampp\htdocs\nt3\data\datamodel-production.xml
+C:\xampp\htdocs\nt3\dictionaries\en.dictionary.nt3.ui.php
+C:\xampp\htdocs\nt3\env-production\dictionaries\en-us.dict.php
+C:\xampp\htdocs\nt3\data\cache-production\apc-emul\nt3-3f237c82330
+
+45.remove nt3-Error from error page
+C:\xampp\htdocs\nt3\application\webpage.class.inc.php
+
+46.Redirect error page//In each and every page of NT3 when deleting any user we got an error for nt3 fatal//Remove nt3 from deletion of person//Resolve ticket back functionality issue//New person assign to organization issue//Resolve ticket back functionality issue//information delete error//Site block when we click on back button
+C:\xampp\htdocs\nt3\application\webpage.class.inc.php
+
+
+47.object reference error showing
+48.correct error spel in change password
+C:\xampp\htdocs\nt3\env-production\dictionaries\en-us.dict.php
+C:\xampp\htdocs\nt3\data\datamodel-production.xml
+C:\xampp\htdocs\nt3\data\cache-production\apc-emul\nt3-3f4237c82330cebefd3071b0bc231333-production-dict-EN-US:
+C:\xampp\htdocs\nt3\dictionaries\en.dictionary.nt3.ui.php
+
+49.create new contact name(working properly on local)
+
+50.identify yourself in forgot password page is removed
+C:\xampp\htdocs\nt3\env-production\dictionaries\en-us.dict.php
+C:\xampp\htdocs\nt3\data\datamodel-production.xml
+C:\xampp\htdocs\nt3\data\cache-production\apc-emul\nt3-3f4237c82330cebefd3071b0bc231333-production-dict-EN-US:
+
+C:\xampp\htdocs\nt3\dictionaries\en.dictionary.nt3.ui.php
+
+51.NT3 can send you an email in which you will find instructions to follow to reset your account. change to Please check your registered email to password reset instructions
+C:\xampp\htdocs\nt3\data\datamodel-production.xml
+C:\xampp\htdocs\nt3\data\cache-production\apc-emul\nt3-3f4237c82330cebefd3071b0bc231333-production-dict-EN-US:
+C:\xampp\htdocs\nt3\dictionaries\da.dictionary.nt3.ui.php:
+
+C:\xampp\htdocs\nt3\dictionaries\en.dictionary.nt3.ui.php:
+
+C:\xampp\htdocs\nt3\dictionaries\hu.dictionary.nt3.ui.php:
+ 
+C:\xampp\htdocs\nt3\dictionaries\it.dictionary.nt3.ui.php:
+
+C:\xampp\htdocs\nt3\dictionaries\ja.dictionary.nt3.ui.php:
+
+C:\xampp\htdocs\nt3\dictionaries\tr.dictionary.nt3.ui.php:
+  
+C:\xampp\htdocs\nt3\dictionaries\zh.dictionary.nt3.ui.php:
+
+C:\xampp\htdocs\nt3\env-production\dictionaries\da-da.dict.php:
+
+C:\xampp\htdocs\nt3\env-production\dictionaries\en-us.dict.php:
+
+C:\xampp\htdocs\nt3\env-production\dictionaries\hu-hu.dict.php:
+
+C:\xampp\htdocs\nt3\env-production\dictionaries\it-it.dict.php:
+ 
+C:\xampp\htdocs\nt3\env-production\dictionaries\ja-jp.dict.php:
+ 
+C:\xampp\htdocs\nt3\env-production\dictionaries\tr-tr.dict.php:
+
+C:\xampp\htdocs\nt3\env-production\dictionaries\zh-cn.dict.php
+
+52.retype password replace to confirm password
+C:\xampp\htdocs\nt3\data\cache-production\apc-emul\nt3-3f4237c82330cebefd3071b0bc231333-production-dict-EN-US
+C:\xampp\htdocs\nt3\setup\wizardsteps.class.inc.php
+C:\xampp\htdocs\nt3\env-production\nt3-portal-base\en.dict.nt3-portal-base.php
+C:\xampp\htdocs\nt3\env-production\nt3-portal-base\portal\src\forms\passwordformmanager.class.inc.php
+C:\xampp\htdocs\nt3\env-production\dictionaries\en-us.dict.php
+C:\xampp\htdocs\nt3\dictionaries\en.dictionary.nt3.ui.php
+C:\xampp\htdocs\nt3\datamodels\2.x\nt3-portal-base\portal\src\forms\passwordformmanager.class.inc.php
+C:\xampp\htdocs\nt3\datamodels\2.x\nt3-portal-base\en.dict.nt3-portal-base.php
+C:\xampp\htdocs\nt3\data\cache-production\apc-emul\nt3-3f4237c82330cebefd3071b0bc231333-production-dict-EN-US
+
+
+
+
+
+
+
+
+
+
+
+
+
+

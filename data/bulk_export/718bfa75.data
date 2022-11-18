@@ -1,0 +1,15 @@
+<table class="listResults">
+<thead>
+<tr>
+<th>id (Primary Key)</th>
+<th>Title</th>
+<th>Organization</th>
+<th>Start date</th>
+<th>Status</th>
+<th>Service</th>
+<th>Priority</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td><span class="object-ref " title="Problem::198"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=Problem&id=198&">P-000198</a></span></td><td>Problem 1</td><td><span class="object-ref " title="Organization::18"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=18&">Movicel</a></span></td><td>2019-04-09 15:44:46</td><td><span title="">Assigned</span></td><td><span class="object-ref " title="Service::16"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=Service&id=16&">DI services</a></span></td><td><span title="Critical">Critical</span></td></tr>

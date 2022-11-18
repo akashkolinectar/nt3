@@ -1,0 +1,2 @@
+"Name","Status","Customer->Name","Description","Start date","End date","Provider->Name","Billing frequency","Contract sub-class","Cost","Cost Currency","Cost unit","id (Primary Key)","Contract type","Contract type->Name","Contract type->Full name","Customer","Customer->Full name","Customer->Obsolete","Customer->Code","Provider","Provider->Full name","Provider->Obsolete","Provider->Code"
+"Reliance Contract","production","Relience","",,,"Nectar Infotel","","Customer Contract","","","",10,0,"","",33,"Relience",No,"1002",32,"Nectar Infotel",No,"001"

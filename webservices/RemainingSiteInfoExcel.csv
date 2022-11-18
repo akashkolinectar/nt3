@@ -1,0 +1,95 @@
+"Old Site Id",BSC,RNC,"ID OSS","Nome do Site","Tipo de Site",Província,Município,Comuna,Localidade,"Data de Integração",Latitude,Longitude,Estado,Projecto,Vendor,2G,3G,4G,"Tipo RBS "
+111,LUBSC05,LURNC02,111,Açucareira,GreenField,Bengo,Dande,Dande,"Barra do Dande",14-12-2010,-8.592778,13.599444,Activo,Anterior,ZTE,x,x,,BS8800
+1409,BEBSC02,BERNC02,20,"Alto Esperança",GreenField,Benguela,Lobito,Lobito,Lobito,23-04-2015,-12.38478,13.56901,Activo,"ROC / 2014 / Swap de Benguela",HUAWEI,x,x,,RBS3900
+1404,,,1404,"Alto Pundo",GreenField,Benguela,Bocoio,Passe,Lobito,,-12.418350,13.912680,Construído,"Sites c/Infraestrutura",,,,,
+1307,HUBSC01,HURNC01,1307,"Bairro da Aviaçao",GreenField,Huambo,Huambo,Huambo,Huambo,30-01-2017,-12.786380,15.716610,Activo,"ROC / 2014",ZTE,x,x,,BS8800
+1357,,,1357,"Bairro Toco",GreenField,Huíla,Lubango,Hoque,Lubango,,-14.780734,13.775026,Construído,"ROC / 2014",,,,,
+890,,,890,Banga,GreenField,"Cuanza Norte",Banga,Banga,Banga,,-8.728944,15.168455,Construído,"Sites c\ Infraestrutura",,,,,
+610,,,610,"Belo Horizonte",GreenField,Bié,Cunhinga,"Belo Horizonte","Belo Horizonte",,-11.914472,16.90025,Construído,"Sites c\ Infraestrutura",,,,,
+1505,,,1505,"Bibala Rep",GreenField,Namibe,Bibala,Bibala,Bibala,,-14.725619," 13.485039",Construído,"Sites c\ Infraestrutura",,,,,
+1506,,,1513,"Bibala vila",GreenField,Namibe,Bibala,Bibala,Bibala,,-14.760278,13.352944,Construído,"Sites c\ Infraestrutura",,,,,BS8800
+891,,,891,Bolongongo,GreenField,"Cuanza Norte",Bolongongo,Bolongongo,Bolongongo,,-8.417378,15.180728,Construído,"Sites c\ Infraestrutura",,,,,
+336,,,336,Buengas,GreenField,Uíge,Buengas,Uíge,Buengas,,-6.732722,15.88836,Construído,"Sites c\ Infraestrutura",,,,,
+765,LUCBSC3,LUCRNC2,CA298,"C_Cacuaco B1_37",GreenField,Luanda,Cacuaco,Cacuaco,Cacuaco,13-12-2019,-8.879832,13.484617,Activo,Balumuka,HUAWEI,x,x,x,#N/A
+552,LUCBSC3,LUCRNC2,CA299,"C_Cacuaco B12_1",Rooftop,Luanda,Cacuaco,Cacuaco,Cacuaco,13-12-2019,-8.892089,13.48603,Activo,Balumuka,HUAWEI,x,x,x,#N/A
+520,LUCBSC3,LUCRNC2,CA300,"C_Cacuaco B6_23",Rooftop,Luanda,Cacuaco,Cacuaco,Cacuaco,13-12-2019,-8.884695,13.491432,Activo,Balumuka,HUAWEI,x,x,x,#N/A
+769,,,769,Cachingues,GreenField,Bié,Chitembo,Cachingues,Chitembo,,-13.067389,16.747806,Construído,"Sites c\ Infraestrutura",,,,,
+1386,,,1386,Cada,GreenField,"Cuanza Sul",Amboim,Gabela,Cadá,,-10.876870,14.329560,Construído,"ROC / 2014",,,,,BS8800
+339,,,339,Calai,GreenField,"Cuando Cubango",Calaí,Calaí,Calaí,,-17.89691,19.77188,Construído,"Sites c\ Infraestrutura",,,,,
+291,LUBSC05,LURNC02,291,"Calamba 1",GreenField,Luanda,Quissama,Quissama,Calamba,17-03-2020,-10.1754,13.5112,Activo,BB_com_bts,ZTE,x,x,,#N/A
+950,,,950,Camaxilo,GreenField,"Lunda Norte",Caungula,Camaxilo,Caungula,,-8.344167,18.916861,Construído,"Sites c\ Infraestrutura",,,,,
+387,,,387,Cambuengo,GreenField,Huambo,Mungo,Cambuengo,Mungo,,-11.711305,16.069722,Construído,"Sites c\ Infraestrutura",,,,,
+345,,,345,Camissombo,GreenField,"Lunda Norte",Lucapa,Camissombo,Lucapa,,-8.157047,20.65788,Construído,"Sites c\ Infraestrutura",,,,,
+768,,,768,Cangalo,GreenField,Bié,Andulo,Andulo,Bié,,-11.902639,16.668889,Construído,"Sites c\ Infraestrutura",,,,,
+1350,,,1515,"Carive Sul",GreenField,Benguela,Benguela,Benguela,Benguela,,-12.96457,13.60465,Construído,"Sites c/Infraestrutura",,,,,
+316,,,316,Cassange,GreenField,"Cuanza Sul",Quibala,Quibala,Quibala,,-10.22291,14.80966,Construído,"Sites c\ Infraestrutura",,,,,
+888,,,888,Cassongue,GreenField,"Cuanza Sul",Cassongue,Cassongue,Cassongue,,-11.855556,15.049167,Construído,"Sites c\ Infraestrutura",,,,,
+1313,MGBSC01,MJRNC01,1313,"Catoca Módulo2",GreenField,"Lunda Sul",Saurimo,Catoca,Saurimo,15-09-2015,"-9,392930","20,286490",Activo,Anterior,ZTE,x,x,,BS8800
+853,,,853,Caungula,GreenField,"Lunda Norte",Caungula,Caungula,Caungula,,-8.4336056,18.633605,Construído,"Sites c\ Infraestrutura",,,,,
+1343,HLBSC01,HLRNC01,1343,"Cemitério Mitcha",GreenField,Huíla,Lubango,Lubango,Lubango,22-06-2015,-14.905126,13.492618,Activo,"ROC / 2014",ZTE,x,x,x,BS8800
+612,,,612,Ceteca,GreenField,Bié,N'harea,Ceteca,N'harea,,-11.177083,17.1345,Construído,"Sites c\ Infraestrutura",,,,,
+1509,,,1511,Chinhama,GreenField,Huambo,"Tchikala Tcholohanga",Tchinhama,Tchinhama,,-13.10508,16.43081,Construído,Anterior,,,,,
+343,,,343,Chitembo,GreenField,Bié,Chitembo,Chitembo,Chitembo,,-13.50755,16.750361,Construído,"Sites c\ Infraestrutura",,,,,
+613,,,613,Chiuca,GreenField,Bié,Catabola,Chiuca,Catabola,,-12.297194,17.350583,Construído,"Sites c\ Infraestrutura",,,,,
+614,,,614,Chivaulo,GreenField,Bié,Andulo,Chivaulo,Andulo,,-11.64225,16.458417,Construído,"Sites c\ Infraestrutura",,,,,
+1425,HLBSC01,HLRNC01,1425,"Comandante Nzaji 2",GreenField,Huíla,Lubango,Lubango,Lubango,20-08-2014,-14.936016,13.474767,Activo,"ROC / 2014",ZTE,x,x,x,BS8800
+1417,,,1417,"Comuna da Palanca",GreenField,Huíla,Humpata,Humpata,Humpata,,-15.04713,13.45589,Construído,"ROC / 2014",,,,,
+219,,,219,"Condé Cidade",GreenField,"Cuanza Sul",Ebo,Conde,Ebo,,-10.843611,14.677472,Construído,"Sites c\ Infraestrutura",,,,,
+340,,,340,Cuangar,GreenField,"Cuando Cubango",Cuangar,Cuangar,Cuangar,,-17.603306,18.62453,Construído,"Sites c\ Infraestrutura",,,,,
+342,,,342,"Cuito Cuanavale",GreenField,"Cuando Cubango","Cuito Cuanavale","Cuito Cuanavale","Cuito Cuanavale",,-15.16588,19.17677,Construído,"Sites c\ Infraestrutura",,,,,
+693,HLBSC01,HLRNC01,693,"Edifício Laureanos ",RoofTop,Huíla,Lubango,Lubango,Lubango,20-03-2014,-14.919972,13.497117,Activo,Anterior,ZTE,x,x,x,BS8800
+686,HLBSC01,HLRNC01,686,"Escola 1º Dezembro",GreenField,Huíla,Lubango,Lubango,Lubango,16-03-2013,-14.928361,13.493556,Activo,Anterior,ZTE,x,x,x,BS8800
+1429,,,1429,"Estacao Humpata",GreenField,Huíla,Humpata,Humpata,Humpata,,-15.04483,13.38374,Construído,"ROC / 2014",,,,,
+616,,,616,Gamba,GreenField,Bié,N'harea,Gamba,Gamba,,-11.751667,17.111361,Construído,"Sites c\ Infraestrutura",,,,,
+99,LUTBSC1,LUCRNC1,BL120,"Golf IV",GreenField,Luanda,Belas,Cassequel,Cassequel,25-11-2010,-8.870500,13.242900,Activo,Anterior,ERICSSON,x,x,x,"RBS 6101"
+1385,,,1385,Ichinga,GreenField,"Cuanza Sul",Amboim,Assango,Gabela,,-10.905243,14.249745,Construído,"ROC / 2014",,,,,BS8800
+619,,,619,Kangote,GreenField,Bié,Chinguar,Kangote,Chinguar,,-12.732556,16.635444,Construído,"Sites c\ Infraestrutura",,,,,
+620,,,620,Kapamba,GreenField,Bié,Camacupa,Camacupa,Camacupa,,-12.028028,17.452833,Construído,"Sites c\ Infraestrutura",,,,,
+341,,,341,Katuitui,GreenField,"Cuando Cubango",Cuangar,Savate,Katuitui,,-17.38513,18.40558,Construído,"Sites c\ Infraestrutura",,,,,
+622,,,622,Kayeye,GreenField,Bié,Nharea,Kayeye,Kayeye,,-11.408222,17.246611,Construído,"Sites c\ Infraestrutura",,,,,
+420,LUCBSC2,LUTRNC1,CA135,"Kicolo Boa Esperança ",GreenField,Luanda,Cacuaco,Kicolo,Kicolo,31-10-2013,-8.784361,13.334583,Activo,Anterior,ERICSSON,x,x,x,"RBS 6101"
+465,,,465,Kikudo,GreenField,Zaire,Soyo,Soyo,Soyo,,-6.149056,12.377111,Construído,"Sites c\ Infraestrutura",,,,,
+900,,,900,"Kuaba Nzogi",GreenField,Malanje,"Kiuaba - N'zoji","Kiuaba - N'zoji","Kiuaba - N'zoji",,-9.063107,16.628816,Construído,"Sites c\ Infraestrutura",,,,,
+624,,,624,Kwanza,GreenField,Bié,Camacupa,Kwanza,Kwanza,,-11.995528,17.650222,Construído,"Sites c\ Infraestrutura",,,,,
+902,,,902,Luquembo,GreenField,Malanje,Luquembo,Lukembo,Lukembo,,-10.737673,17.71876,Construído,"Sites c\ Infraestrutura",,,,,BS8800
+626,,,626,Malengue,GreenField,Bié,Chitembo,Malengue,Malengue,,-13.769286,16.714292,Construído,"Sites c\ Infraestrutura",,,,,
+512,LUCBSC1,LUTRNC1,LD170,Marçal,GreenField,Luanda,Luanda,Rangel,Rangel,28-12-2012,-8.82327,13.2533,Activo,Anterior,ERICSSON,x,x,x,"RBS 6601"
+1416,,,1416,"Miradouro da Leba",GreenField,Huíla,Humpata,Humpata,Humpata,,-15.07713,13.23549,Construído,"ROC / 2014",,,,,
+1364,,,1364,"Mitcha 3",GreenField,Huíla,Lubango,Lubango,Lubango,,-14.895318,13.503388,Construído,"ROC / 2014",,,,,RBS8800
+627,,,627,Muinha,GreenField,Bié,Camacupa,Muinha,Muinha,,-11.863667,17.517139,Construído,"Sites c\ Infraestrutura",,,,,
+317,,,317,Munenga,GreenField,"Cuanza Sul",Libolo,Munenga,Munenga,,-10.03699,14.6342,Construído,"Sites c\ Infraestrutura",,,,,
+628,,,628,Muquinda,GreenField,Bié,Camacupa,Muquinda,Muquinda,,-12.144778,17.439889,Construído,"Sites c\ Infraestrutura",,,,,
+822,,,822,"Mussende cidade",GreenField,"Cuanza Sul",Cassongue,Cassongue,Cassongue,,-11.856388,15.044166,Construído,"Sites c\ Infraestrutura",,,,,
+569,LUTBSC1,LUCRNC1,BL200,"Mussulo Administracao",GreenField,Luanda,Belas,"Benfica e Mussulo","Benfica e Mussulo",05-06-2013,-8.88772,13.13305,Activo,Anterior,ERICSSON,x,x,x,"RBS 6101"
+26,LUTBSC2,LUCRNC1,VA201,Mutões,GreenField,Luanda,"Icolo e Bengo","Bom Jesus","Bom Jesus",09-12-2010,-8.986120,13.496140,Activo,Anterior,ERICSSON,x,x,x,"RBS 6601"
+948,,,948,"Muxinda Capenda",GreenField,"Lunda Norte","Xá - Muteba",Xamuteba,Xamuteba,,-9.383611,18.105556,Construído,"Sites c\ Infraestrutura",,,,,
+1402,,,1402,Ngombo,GreenField,Benguela,Bocoio,Passe,Lobito,,-12.47173,13.98319,Construído,"ROC / 2014",,,,,
+1022,LUCBSC1,LUTRNC1,LD206,"Palacio da Justiça",Indoor,Luanda,Luanda,Maianga,Maianga,18-12-2013,-8.820581,13.227636,Activo,Anterior,ERICSSON,x,x,x,"RBS 6601"
+1508,,,1509,"Pambangala ",GreenField,"Cuanza Sul",Cassongue,Pambangala,Pambangala,,-11.677500,15.225556,Construído,"Sites c\ Infraestrutura",,,,,
+377,LUCBSC2,LUTRNC1,CA212,"Petrangol  Sodofil",GreenField,Luanda,Cazenga,Petrangol,Petrangol,04-05-2014,-8.794917,13.305611,Activo,Anterior,ERICSSON,x,x,x,"RBS 6601"
+800,,,800,"Praça do camionista",GreenField,"Cuanza Norte",Cambambe,Dondo,Dondo,,-9.22245,14.22636,Construído,"Sites c\ Infraestrutura",,,,,
+808,,,808,"Praça do desvio",GreenField,"Cuanza Norte",Cambambe,Dondo,Dondo,,-9.17896,14.62406,Construído,"Sites c\ Infraestrutura",,,,,
+38,LUCBSC1,LUTRNC1,LD217,"Praça Sao Paulo",RoofTop,Luanda,Luanda,Rangel,Rangel,17-11-2010,-8.816679,13.255176,Activo,Anterior,ERICSSON,x,x,x,"RBS 6101"
+1333,BEBSC02,BERNC02,41,"Prédio Décimo",GreenField,Benguela,Benguela,Benguela,Benguela,22-03-2016,-12.574123,13.400283,Activo,"ROC / 2014 / Swap de Benguela",HUAWEI,x,x,x,RBS3900
+893,,,893,Quiculungo,GreenField,"Cuanza Norte",Quiculungo,Quiculungo,Quiculungo,,-8.519009,15.311864,Construído,"Sites c\ Infraestrutura",,,,,
+1363,,,1363,Quiolo,GreenField,Huíla,Lubango,Hoque,Hoque,,-14.610340,13.963870,Construído,"ROC / 2014",,,,,
+318,,,318,Quissongo,GreenField,"Cuanza Sul",Libolo,Quissongo,Quissongo,,-10.68353,14.75862,Construído,"Sites c\ Infraestrutura",,,,,
+1508,,,1508,"Quissongo Fazenda Leoma",GreenField,"Cuanza Sul",Cassongue,Cassongue,Cassongue,,-10.165278,15.172778,Construído,"Sites c\ Infraestrutura",,,,,
+942,,,942,Quissongue,GreenField,"Cuanza Sul",Libolo,Quissongue,Quissongue,,-10.031667,15.082778,Construído,"Sites c\ Infraestrutura",,,,,
+,MGBSC01,MJRNC01,1538,"Rep. Xá Muteba",GreenField,"Lunda Sul","Xá - Muteba","Xá - Muteba","Xá - Muteba",12-10-2018,-9.383614,18.105531,Activo,23_BB_sem_bts,ZTE,x,x,,
+943,,,943,"Samba Lucala",GreenField,"Cuanza Norte",Lucala,Lucala,Lucala,,-8.985556,15.583333,Construído,"Sites c\ Infraestrutura",,,,,
+1384,,,1384,Sanga,GreenField,"Cuanza Sul",Ebo,Conde,Conde,,-10.855079,14.596645,Construído,"ROC / 2014",,,,,BS8800
+289,LUBSC05,LURNC02,289,"São Brás 1",GreenField,Luanda,Quissama,Quissama,"São Brás",17-03-2020,-9.782853,13.287622,Activo,BB_com_bts,ZTE,x,x,,"RBS 6101"
+238,MGBSC01,MJRNC01,238,Seminário,GreenField,Malanje,Malanje,Malanje,Malanje,16-03-2011,-9.541139,16.330778,Activo,Anterior,ZTE,x,x,,BS8800
+96,LUCBSC1,LUTRNC1,LD240,"Seminário Maior",GreenField,Luanda,Luanda,Cassequel,Cassequel,26-09-2013,-8.834972,13.245933,Activo,Anterior,ERICSSON,x,x,x,"RBS 6102"
+633,,,633,"Sete Casas",GreenField,Bié,Catabola,Chipeta,Chipeta,,-12.249611,17.165167,Construído,"Sites c\ Infraestrutura",,,,,
+697,HLBSC01,HLRNC01,697,Subestação,GreenField,Huíla,Lubango,Lubango,Lubango,17-03-2014,-14.931444,13.501472,Activo,Anterior,ZTE,x,x,x,BS8800
+816,BEBSC01,BERNC01,816,"Sumbe-FCKS 2",GreenField,"Cuanza Sul",Sumbe,Gangula,Gangula,12-09-2014,-11.19725,13.941277,Activo,"Melhoria da cobertura",ZTE,x,x,,BS8800
+951,,,951,Terreiro,GreenField,"Cuanza Norte",Lucala,"Samba Lucala","Samba Lucala",,-8.432553,15.103289,Construído,"Sites c\ Infraestrutura",,,,,
+257,MGBSC01,MJRNC01,257,"Uíge central",GreenField,Uíge,Uíge,Uíge,Uíge,11-02-2011,-7.61787,15.0583,Activo,Anterior,ZTE,x,x,,BS8800
+728,LUTBSC2,LUCRNC1,VA256,"Viana 1º Maio DEE",GreenField,Luanda,Viana,Viana,Viana,12-07-2012,-8.91588,13.36713,Activo,Anterior,ERICSSON,x,x,x,"RBS 6101"
+761,LUTBSC2,LUCRNC1,VA267,"Viana Sacrifício",GreenField,Luanda,Viana,Viana,"Bairro Sacrifício ",16-10-2014,-8.947194,13.353861,Activo,Anterior,ERICSSON,x,x,x,"RBS 6101"
+1197,LUTBSC2,LUCRNC1,LD461,"Vila Flor Comissão ",GreenField,Luanda,Belas,Camama,Camama,13-12-2016,-8.98432,13.32667,Activo,Expansão_150/2014,ERICSSON,x,x,,
+1138,LUTBSC2,LUCRNC1,BL428,"Vila Flor Comissão 2",GreenField,Luanda,Belas,Camama,Camama,07-02-2017,-9.00564,13.32225,Activo,Expansão_150/2014,ERICSSON,x,x,,
+288,LUBSC05,LURNC02,288,"Vista da Lagoa 1",GreenField,Luanda,Quissama,"Cabo Ledo","Cabo Ledo",17-03-2020,-9.908953,13.3754804,Activo,BB_com_bts,ZTE,x,x,,"RBS 6301"
+403,LUCBSC3,LUCRNC2,VA281,"Zango Boa Esperança",GreenField,Luanda,Viana,Zango,Zango,13-12-2019,-9.022861,13.370139,Activo,Balumuka,HUAWEI,x,x,x,"RBS 6101"

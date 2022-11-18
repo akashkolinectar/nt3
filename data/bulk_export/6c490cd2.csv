@@ -1,0 +1,2 @@
+"Action sub-class","Cc","Description","From","Name","Reply to","Status","Test recipient","To","bcc","body","id (Primary Key)","importance","subject"
+"Email notification","","new Email notification","vidyadhar@nectarinfotel.com","new Email notification","vidyadhar@nectarinfotel.com","In production","vidyadhar@nectarinfotel.com","SELECT Person WHERE id= :this->agent_id","","NT3 - Incident Notification",3,"high","NT3 - Incident Notification"

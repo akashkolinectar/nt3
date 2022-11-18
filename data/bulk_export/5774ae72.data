@@ -1,0 +1,17 @@
+<table class="listResults">
+<thead>
+<tr>
+<th>id (Primary Key)</th>
+<th>Status</th>
+<th>Customer</th>
+<th>Description</th>
+<th>Start date</th>
+<th>End date</th>
+<th>Provider</th>
+<th>SLA</th>
+<th>Service hours</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td><span class="object-ref " title="Provider Contract::7"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=ProviderContract&id=7&">DE provider</a></span></td><td><span title="production">production</span></td><td><span class="object-ref " title="Organization::22"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=22&">DE</a></span></td><td><div ></div></td><td>2019-03-27</td><td>2019-03-31</td><td><span class="object-ref " title="Organization::18"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=18&">Movicel</a></span></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td><span class="object-ref " title="Provider Contract::5"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=ProviderContract&id=5&">Software</a></span></td><td><span title="production">production</span></td><td><span class="object-ref " title="Organization::18"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=18&">Movicel</a></span></td><td><div ></div></td><td>&nbsp;</td><td>&nbsp;</td><td><span class="object-ref " title="Organization::18"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=18&">Movicel</a></span></td><td>&nbsp;</td><td>&nbsp;</td></tr>

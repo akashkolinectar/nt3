@@ -1,0 +1,312 @@
+2020-06-06 16:04:34 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2002, mysql_error = No such file or directory
+2020-06-06 16:08:36 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2002, mysql_error = No such file or directory
+2020-06-06 16:11:49 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2002, mysql_error = No such file or directory
+2020-06-06 16:13:54 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2002, mysql_error = No such file or directory
+2020-06-06 16:16:41 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2002, mysql_error = No such file or directory
+2020-06-06 16:21:04 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2002, mysql_error = No such file or directory
+2020-06-06 16:29:36 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2002, mysql_error = No such file or directory
+2020-06-07 14:39:35 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2002, mysql_error = Connection refused
+2020-06-07 14:39:57 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2006, mysql_error = MySQL server has gone away
+2020-06-07 14:40:16 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2006, mysql_error = MySQL server has gone away
+2020-06-07 14:40:38 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2002, mysql_error = Connection refused
+2020-06-07 15:53:31 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2002, mysql_error = No such file or directory
+2020-06-07 16:02:12 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2002, mysql_error = No such file or directory
+2020-06-07 16:12:05 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2002, mysql_error = No such file or directory
+2020-06-07 16:14:45 | Error | BackupHandler::OnMetaModelStarted Failed to check if a backup/restore is running: Could not connect to the DB server: host = localhost, user = root, mysql_errno = 2002, mysql_error = No such file or directory
+2020-06-09 02:50:05 | Warning | Email sending failed: Some recipients were invalid, aFailedRecipients contains: Felix.aurelio@movicel.co.ao, manuel.coutinho@movicel.co.ao
+2020-06-09 02:58:54 | Warning | Email sending failed: Some recipients were invalid, aFailedRecipients contains: Felix.aurelio@movicel.co.ao, manuel.coutinho@movicel.co.ao
+2020-06-09 03:35:16 | Warning | Email sending failed: Some recipients were invalid, aFailedRecipients contains: Carlos.Duarte@movicel.co.ao, manuel.coutinho@movicel.co.ao
+2020-06-09 04:19:50 | Warning | Email sending failed: Some recipients were invalid, aFailedRecipients contains: valter.francisco@movicel.co.ao, manuel.coutinho@movicel.co.ao
+2020-06-09 09:04:36 | Warning | Email sending failed: Some recipients were invalid, aFailedRecipients contains: Valdemar.Fundoes@movicel.co.ao, manuel.coutinho@movicel.co.ao
+2020-06-09 09:35:05 | Warning | Email sending failed: Some recipients were invalid, aFailedRecipients contains: Diocliciano.Cosme@movicel.co.ao, manuel.coutinho@movicel.co.ao
+2020-06-09 10:07:34 | Warning | Email sending failed: Some recipients were invalid, aFailedRecipients contains: valter.francisco@movicel.co.ao, manuel.coutinho@movicel.co.ao
+2020-06-09 10:18:40 | Warning | Email sending failed: Some recipients were invalid, aFailedRecipients contains: Diocliciano.Cosme@movicel.co.ao, manuel.coutinho@movicel.co.ao
+2020-11-20 08:34:23 | Error | Erro: invalid stimulus "ev_assign" on object TT-003502 in state "Atribuído".
+2020-11-20 08:38:58 | Error | Erro: invalid stimulus "ev_assign" on object TT-003502 in state "Atribuído".
+2020-11-20 13:16:23 | Error | Erro: invalid stimulus "ev_close" on object TT-003497 in state "Fechado".
+2020-11-20 13:16:27 | Error | Erro: invalid stimulus "ev_close" on object TT-003497 in state "Fechado".
+2020-11-20 13:20:48 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003492 in state "Fechado".
+2020-11-20 13:46:31 | Error | Erro: invalid stimulus "ev_assign" on object TT-003513 in state "Atribuído".
+2020-11-20 13:54:54 | Error | Erro: invalid stimulus "ev_assign" on object TT-003513 in state "Atribuído".
+2020-11-20 20:21:47 | Error | Erro: invalid stimulus "ev_assign" on object TT-003527 in state "Atribuído".
+2020-11-21 12:43:55 | Error | Erro: invalid stimulus "ev_close" on object TT-003522 in state "Fechado".
+2020-11-21 12:43:57 | Error | Erro: invalid stimulus "ev_close" on object TT-003522 in state "Fechado".
+2020-11-21 12:56:43 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003519 in state "Resolvido".
+2020-11-21 12:56:45 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003519 in state "Resolvido".
+2020-11-21 12:56:48 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003519 in state "Resolvido".
+2020-11-24 09:43:12 | Error | Erro: invalid stimulus "ev_close" on object TT-003580 in state "Fechado".
+2020-11-24 09:43:16 | Error | Erro: invalid stimulus "ev_close" on object TT-003580 in state "Fechado".
+2020-11-24 09:43:20 | Error | Erro: invalid stimulus "ev_close" on object TT-003580 in state "Fechado".
+2020-11-24 12:21:23 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003597 in state "Fechado".
+2020-11-25 12:34:08 | Error | Unknown class ''
+2020-11-25 12:35:27 | Error | Unknown class ''
+2020-11-25 12:35:53 | Error | Unknown class ''
+2020-11-25 12:38:39 | Error | Erro: invalid stimulus "ev_close" on object TT-003606 in state "Fechado".
+2020-11-25 12:39:22 | Error | Erro: invalid stimulus "ev_close" on object TT-003606 in state "Fechado".
+2020-11-25 12:40:30 | Error | Erro: invalid stimulus "ev_close" on object TT-003606 in state "Fechado".
+2020-11-25 12:40:52 | Error | Erro: invalid stimulus "ev_close" on object TT-003606 in state "Fechado".
+2020-11-25 12:57:26 | Error | Unknown class ''
+2020-11-26 09:18:16 | Error | Erro: invalid stimulus "ev_close" on object TT-003678 in state "Fechado".
+2020-11-26 09:18:19 | Error | Erro: invalid stimulus "ev_close" on object TT-003678 in state "Fechado".
+2020-11-26 10:01:18 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003676 in state "Resolvido".
+2020-11-26 10:01:21 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003676 in state "Resolvido".
+2020-11-26 10:01:25 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003676 in state "Resolvido".
+2020-11-27 16:27:13 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003724 in state "Resolvido".
+2020-11-29 07:09:49 | Error | Erro: invalid stimulus "ev_close" on object TT-003766 in state "Fechado".
+2020-11-29 07:09:52 | Error | Erro: invalid stimulus "ev_close" on object TT-003766 in state "Fechado".
+2020-11-30 15:51:44 | Error | Failed to issue SQL query: query = SELECT tk.id FROM ntticket tk LEFT JOIN ntticketsites ts ON ts.ticket_id=tk.id WHERE ts.site_id IN () AND tk.operational_status!='closed', mysql_errno = 1064, mysql_error = You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND tk.operational_status!='closed'' at line 1
+2020-11-30 15:53:44 | Error | Failed to issue SQL query: query = SELECT tk.id FROM ntticket tk LEFT JOIN ntticketsites ts ON ts.ticket_id=tk.id WHERE ts.site_id IN () AND tk.operational_status!='closed', mysql_errno = 1064, mysql_error = You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND tk.operational_status!='closed'' at line 1
+2020-11-30 15:57:20 | Error | Failed to issue SQL query: query = SELECT tk.id FROM ntticket tk LEFT JOIN ntticketsites ts ON ts.ticket_id=tk.id WHERE ts.site_id IN () AND tk.operational_status!='closed', mysql_errno = 1064, mysql_error = You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND tk.operational_status!='closed'' at line 1
+2020-11-30 15:58:54 | Error | Failed to issue SQL query: query = SELECT tk.id FROM ntticket tk LEFT JOIN ntticketsites ts ON ts.ticket_id=tk.id WHERE ts.site_id IN () AND tk.operational_status!='closed', mysql_errno = 1064, mysql_error = You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND tk.operational_status!='closed'' at line 1
+2020-12-01 09:18:57 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003831 in state "Resolvido".
+2020-12-01 09:19:00 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003831 in state "Resolvido".
+2020-12-02 07:27:45 | Error | Erro: invalid stimulus "ev_close" on object TT-003780 in state "Fechado".
+2020-12-02 07:27:53 | Error | Erro: invalid stimulus "ev_close" on object TT-003780 in state "Fechado".
+2020-12-08 15:08:42 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003999 in state "Resolvido".
+2020-12-08 15:08:46 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003999 in state "Resolvido".
+2020-12-08 15:36:08 | Error | Erro: invalid stimulus "ev_close" on object TT-004001 in state "Fechado".
+2020-12-08 22:07:00 | Error | Erro: invalid stimulus "ev_close" on object TT-004006 in state "Fechado".
+2020-12-08 22:07:41 | Error | Erro: invalid stimulus "ev_close" on object TT-004006 in state "Fechado".
+2020-12-08 22:08:10 | Error | Erro: invalid stimulus "ev_close" on object TT-004006 in state "Fechado".
+2020-12-09 11:10:14 | Error | Erro: invalid stimulus "ev_close" on object TT-004018 in state "Fechado".
+2020-12-09 11:10:19 | Error | Erro: invalid stimulus "ev_close" on object TT-004018 in state "Fechado".
+2020-12-09 11:10:23 | Error | Erro: invalid stimulus "ev_close" on object TT-004018 in state "Fechado".
+2020-12-11 08:04:40 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004073 in state "Resolvido".
+2020-12-11 08:04:48 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004073 in state "Resolvido".
+2020-12-11 08:05:05 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004073 in state "Resolvido".
+2020-12-11 08:05:11 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004073 in state "Resolvido".
+2020-12-11 08:05:33 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004073 in state "Resolvido".
+2020-12-11 08:05:39 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004073 in state "Resolvido".
+2020-12-11 08:06:00 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004073 in state "Resolvido".
+2020-12-25 00:26:49 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004357 in state "Resolvido".
+2020-12-26 20:53:38 | Error | Erro: invalid stimulus "ev_close" on object TT-004390 in state "Fechado".
+2020-12-29 12:32:55 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004437 in state "Fechado".
+2020-12-30 11:29:20 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004456 in state "Fechado".
+2020-12-30 11:29:39 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004456 in state "Fechado".
+2020-12-31 11:34:23 | Error | Failed to issue SQL query: query = SELECT perm.permission_name FROM ntpermission perm LEFT JOIN ntpriv_urp_userprofile prof ON prof.profileid = perm.profile_id  WHERE prof.userid = '', mysql_errno = 1146, mysql_error = Table 'nt3.ntpermission' doesn't exist
+2020-12-31 11:35:00 | Error | Failed to issue SQL query: query = SELECT perm.permission_name FROM ntpermission perm LEFT JOIN ntpriv_urp_userprofile prof ON prof.profileid = perm.profile_id  WHERE prof.userid = '1', mysql_errno = 1146, mysql_error = Table 'nt3.ntpermission' doesn't exist
+2020-12-31 11:35:02 | Error | Failed to issue SQL query: query = SELECT perm.permission_name FROM ntpermission perm LEFT JOIN ntpriv_urp_userprofile prof ON prof.profileid = perm.profile_id  WHERE prof.userid = '1', mysql_errno = 1146, mysql_error = Table 'nt3.ntpermission' doesn't exist
+2021-01-02 16:42:41 | Error | Erro: invalid stimulus "ev_close" on object TT-004509 in state "Fechado".
+2021-01-03 01:07:10 | Error | Erro: invalid stimulus "ev_close" on object TT-003595 in state "Fechado".
+2021-01-04 07:10:20 | Error | Erro: invalid stimulus "ev_close" on object TT-003747 in state "Fechado".
+2021-01-04 11:56:33 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003052 in state "Fechado".
+2021-01-04 11:56:40 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003052 in state "Fechado".
+2021-01-04 12:02:08 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004545 in state "Fechado".
+2021-01-04 12:02:13 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004545 in state "Fechado".
+2021-01-06 19:39:30 | Error | Erro: invalid stimulus "ev_close" on object TT-004351 in state "Fechado".
+2021-01-06 19:39:36 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004351 in state "Fechado".
+2021-01-07 16:58:19 | Error | Erro: invalid stimulus "ev_close" on object TT-004618 in state "Fechado".
+2021-01-07 16:58:33 | Error | Erro: invalid stimulus "ev_close" on object TT-004618 in state "Fechado".
+2021-01-08 06:33:44 | Error | Erro: invalid stimulus "ev_close" on object TT-004619 in state "Fechado".
+2021-01-08 06:33:50 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004619 in state "Fechado".
+2021-01-09 02:08:22 | Error | Erro: invalid stimulus "ev_close" on object TT-003422 in state "Fechado".
+2021-01-09 02:08:26 | Error | Erro: invalid stimulus "ev_resolve" on object TT-003422 in state "Fechado".
+2021-01-09 07:09:30 | Error | Erro: invalid stimulus "ev_close" on object TT-004162 in state "Fechado".
+2021-01-09 07:09:33 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004162 in state "Fechado".
+2021-01-18 10:31:33 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004821 in state "Resolvido".
+2021-01-18 10:31:40 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004821 in state "Resolvido".
+2021-01-19 11:36:35 | Error | Erro: invalid stimulus "ev_close" on object TT-004841 in state "Fechado".
+2021-01-19 11:36:43 | Error | Erro: invalid stimulus "ev_close" on object TT-004841 in state "Fechado".
+2021-01-19 11:36:52 | Error | Erro: invalid stimulus "ev_close" on object TT-004841 in state "Fechado".
+2021-01-20 06:45:03 | Error | Erro: invalid stimulus "ev_close" on object TT-004544 in state "Fechado".
+2021-01-20 06:45:07 | Error | Erro: invalid stimulus "ev_resolve" on object TT-004544 in state "Fechado".
+2021-01-21 11:31:08 | Error | Erro: invalid stimulus "ev_close" on object TT-004876 in state "Fechado".
+2021-01-21 11:59:28 | Error | Erro: invalid stimulus "ev_close" on object TT-004876 in state "Fechado".
+2021-01-23 07:29:22 | Error | Erro: invalid stimulus "ev_close" on object TT-004665 in state "Fechado".
+2021-01-23 07:29:26 | Error | Erro: invalid stimulus "ev_close" on object TT-004665 in state "Fechado".
+2021-01-25 18:09:29 | Error | Erro: invalid stimulus "ev_close" on object TT-004629 in state "Fechado".
+2021-01-25 19:39:58 | Error | Erro: invalid stimulus "ev_close" on object TT-004961 in state "Fechado".
+2021-01-29 13:22:12 | Error | Erro: invalid stimulus "ev_resolve" on object TT-005039 in state "Resolvido".
+2021-01-29 13:22:17 | Error | Erro: invalid stimulus "ev_resolve" on object TT-005039 in state "Resolvido".
+2021-01-29 13:22:23 | Error | Erro: invalid stimulus "ev_resolve" on object TT-005039 in state "Resolvido".
+2021-01-31 09:06:58 | Error | Erro: invalid stimulus "ev_assign" on object TT-005089 in state "Atribuído".
+2021-01-31 09:07:05 | Error | Erro: invalid stimulus "ev_assign" on object TT-005089 in state "Atribuído".
+2021-02-02 06:27:41 | Error | Erro: invalid stimulus "ev_close" on object TT-005039 in state "Fechado".
+2021-02-02 11:13:36 | Error | Erro: invalid stimulus "ev_assign" on object TT-005121 in state "Atribuído".
+2021-02-04 10:57:03 | Error | Erro: invalid stimulus "ev_close" on object TT-005164 in state "Fechado".
+2021-02-06 22:21:36 | Error | Erro: invalid stimulus "ev_close" on object TT-005205 in state "Fechado".
+2021-02-06 22:21:48 | Error | Erro: invalid stimulus "ev_close" on object TT-005205 in state "Fechado".
+2021-02-11 14:31:09 | Error | Erro: invalid stimulus "ev_assign" on object TT-005291 in state "Atribuído".
+2021-02-13 07:14:28 | Error | Erro: invalid stimulus "ev_close" on object TT-005272 in state "Fechado".
+2021-02-16 16:15:25 | Error | Erro: invalid stimulus "ev_close" on object TT-005384 in state "Fechado".
+2021-02-16 16:37:31 | Error | Erro: invalid stimulus "ev_close" on object TT-005386 in state "Fechado".
+2021-02-17 13:30:41 | Error | Erro: invalid stimulus "ev_resolve" on object TT-005345 in state "Resolvido".
+2021-02-17 17:12:23 | Error | Erro: invalid stimulus "ev_assign" on object TT-005419 in state "Atribuído".
+2021-02-17 17:12:33 | Error | Erro: invalid stimulus "ev_assign" on object TT-005419 in state "Atribuído".
+2021-02-18 14:38:36 | Error | Erro: invalid stimulus "ev_close" on object TT-005410 in state "Fechado".
+2021-02-19 21:55:45 | Error | Erro: invalid stimulus "ev_close" on object TT-005441 in state "Fechado".
+2021-02-19 21:55:49 | Error | Erro: invalid stimulus "ev_close" on object TT-005441 in state "Fechado".
+2021-02-19 21:55:57 | Error | Erro: invalid stimulus "ev_close" on object TT-005441 in state "Fechado".
+2021-02-19 21:56:02 | Error | Erro: invalid stimulus "ev_close" on object TT-005441 in state "Fechado".
+2021-02-20 14:29:51 | Error | Erro: invalid stimulus "ev_close" on object TT-005001 in state "Fechado".
+2021-02-20 14:30:01 | Error | Erro: invalid stimulus "ev_close" on object TT-005001 in state "Fechado".
+2021-02-20 14:30:02 | Error | Erro: invalid stimulus "ev_close" on object TT-005001 in state "Fechado".
+2021-02-20 14:30:08 | Error | Erro: invalid stimulus "ev_close" on object TT-005001 in state "Fechado".
+2021-02-21 16:30:22 | Error | Erro: invalid stimulus "ev_close" on object TT-005501 in state "Fechado".
+2021-02-21 16:30:29 | Error | Erro: invalid stimulus "ev_close" on object TT-005501 in state "Fechado".
+2021-02-23 07:21:14 | Error | Erro: invalid stimulus "ev_close" on object TT-005543 in state "Fechado".
+2021-02-23 07:21:23 | Error | Erro: invalid stimulus "ev_close" on object TT-005543 in state "Fechado".
+2021-02-23 07:21:24 | Error | Erro: invalid stimulus "ev_close" on object TT-005543 in state "Fechado".
+2021-02-24 09:05:45 | Error | Erro: invalid stimulus "ev_close" on object TT-005549 in state "Fechado".
+2021-02-24 17:12:23 | Error | Erro: invalid stimulus "ev_resolve" on object TT-005562 in state "Resolvido".
+2021-02-26 15:12:34 | Error | Erro: invalid stimulus "ev_close" on object TT-005640 in state "Fechado".
+2021-02-26 15:12:37 | Error | Erro: invalid stimulus "ev_close" on object TT-005640 in state "Fechado".
+2021-02-27 12:53:36 | Error | Erro: invalid stimulus "ev_resolve" on object TT-005647 in state "Resolvido".
+2021-02-27 12:53:40 | Error | Erro: invalid stimulus "ev_resolve" on object TT-005647 in state "Resolvido".
+2021-02-27 13:08:56 | Error | Erro: invalid stimulus "ev_close" on object TT-005626 in state "Fechado".
+2021-02-27 13:08:59 | Error | Erro: invalid stimulus "ev_close" on object TT-005626 in state "Fechado".
+2021-03-03 19:39:45 | Error | Unknown class ''
+2021-03-03 22:36:54 | Error | Unknown class ''
+2021-03-04 21:43:52 | Error | Erro: invalid stimulus "ev_close" on object TT-005784 in state "Fechado".
+2021-03-06 11:16:41 | Error | Erro: invalid stimulus "ev_assign" on object TT-005820 in state "Atribuído".
+2021-03-06 11:16:46 | Error | Erro: invalid stimulus "ev_assign" on object TT-005820 in state "Atribuído".
+2021-03-09 15:59:39 | Error | Erro: invalid stimulus "ev_close" on object TT-005877 in state "Fechado".
+2021-03-09 18:43:58 | Error | Unknown class ''
+2021-03-09 19:13:59 | Error | Unknown class ''
+2021-03-10 07:44:09 | Error | Erro: invalid stimulus "ev_close" on object TT-005931 in state "Fechado".
+2021-03-10 07:48:09 | Error | Erro: invalid stimulus "ev_close" on object TT-005931 in state "Fechado".
+2021-03-10 07:48:18 | Error | Erro: invalid stimulus "ev_close" on object TT-005931 in state "Fechado".
+2021-03-10 09:53:34 | Error | Erro: invalid stimulus "ev_resolve" on object TT-005939 in state "Resolvido".
+2021-03-10 09:55:13 | Error | Erro: invalid stimulus "ev_resolve" on object TT-005939 in state "Resolvido".
+2021-03-10 09:58:25 | Error | Erro: invalid stimulus "ev_resolve" on object TT-005939 in state "Resolvido".
+2021-03-10 12:44:10 | Error | Unknown class ''
+2021-03-10 12:44:20 | Error | Unknown class ''
+2021-03-10 16:30:10 | Error | Erro: invalid stimulus "ev_close" on object TT-005946 in state "Fechado".
+2021-03-10 16:49:26 | Error | Erro: invalid stimulus "ev_close" on object TT-005910 in state "Fechado".
+2021-03-11 14:25:56 | Error | Erro: invalid stimulus "ev_assign" on object TT-005975 in state "Atribuído".
+2021-03-11 14:26:38 | Error | Erro: invalid stimulus "ev_assign" on object TT-005975 in state "Atribuído".
+2021-03-11 16:59:46 | Error | Erro: invalid stimulus "ev_close" on object TT-005968 in state "Fechado".
+2021-03-13 06:03:06 | Error | Erro: invalid stimulus "ev_resolve" on object TT-006003 in state "Resolvido".
+2021-03-13 06:03:16 | Error | Erro: invalid stimulus "ev_resolve" on object TT-006003 in state "Resolvido".
+2021-03-15 21:46:42 | Error | Erro: invalid stimulus "ev_close" on object TT-006056 in state "Fechado".
+2021-03-15 21:46:48 | Error | Erro: invalid stimulus "ev_resolve" on object TT-006056 in state "Fechado".
+2021-03-18 16:09:33 | Error | Erro: invalid stimulus "ev_close" on object TT-006156 in state "Fechado".
+2021-03-23 13:41:36 | Error | Unknown class ''
+2021-03-24 14:44:23 | Error | Erro: invalid stimulus "ev_resolve" on object TT-006292 in state "Resolvido".
+2021-03-24 14:44:39 | Error | Erro: invalid stimulus "ev_resolve" on object TT-006292 in state "Resolvido".
+2021-03-28 15:07:24 | Error | Erro: invalid stimulus "ev_assign" on object TT-006417 in state "Atribuído".
+2021-03-28 18:04:11 | Error | Erro: invalid stimulus "ev_resolve" on object TT-006417 in state "Fechado".
+2021-03-29 13:46:45 | Error | Erro: invalid stimulus "ev_close" on object TT-006426 in state "Fechado".
+2021-04-03 07:07:48 | Error | Erro: invalid stimulus "ev_assign" on object TT-006541 in state "Atribuído".
+2021-04-03 14:48:34 | Error | Erro: invalid stimulus "ev_close" on object TT-006551 in state "Fechado".
+2021-04-03 14:48:53 | Error | Erro: invalid stimulus "ev_close" on object TT-006551 in state "Fechado".
+2021-04-03 14:50:09 | Error | Erro: invalid stimulus "ev_close" on object TT-006551 in state "Fechado".
+2021-04-03 14:50:10 | Error | Erro: invalid stimulus "ev_close" on object TT-006551 in state "Fechado".
+2021-04-04 20:01:42 | Error | Erro: invalid stimulus "ev_close" on object TT-006577 in state "Fechado".
+2021-04-09 15:43:34 | Error | Erro: invalid stimulus "ev_close" on object TT-006659 in state "Fechado".
+2021-04-09 15:43:38 | Error | Erro: invalid stimulus "ev_close" on object TT-006659 in state "Fechado".
+2021-04-09 15:43:41 | Error | Erro: invalid stimulus "ev_close" on object TT-006659 in state "Fechado".
+2021-04-13 14:40:21 | Error | Erro: invalid stimulus "ev_resolve" on object TT-006784 in state "Resolvido".
+2021-04-13 14:53:25 | Error | Erro: invalid stimulus "ev_resolve" on object TT-006784 in state "Resolvido".
+2021-04-16 16:06:32 | Error | Erro: invalid stimulus "ev_resolve" on object TT-006860 in state "Fechado".
+2021-04-17 16:30:06 | Error | Erro: invalid stimulus "ev_resolve" on object TT-006887 in state "Fechado".
+2021-04-19 15:07:08 | Error | Erro: invalid stimulus "ev_close" on object TT-006925 in state "Fechado".
+2021-04-21 07:13:21 | Error | Erro: invalid stimulus "ev_assign" on object TT-006992 in state "Atribuído".
+2021-04-21 12:26:53 | Error | Erro: invalid stimulus "ev_assign" on object TT-007002 in state "Atribuído".
+2021-04-21 12:26:59 | Error | Erro: invalid stimulus "ev_assign" on object TT-007002 in state "Atribuído".
+2021-04-21 12:27:33 | Error | Erro: invalid stimulus "ev_assign" on object TT-007002 in state "Atribuído".
+2021-04-21 12:27:49 | Error | Erro: invalid stimulus "ev_assign" on object TT-007002 in state "Atribuído".
+2021-04-21 12:27:52 | Error | Erro: invalid stimulus "ev_assign" on object TT-007002 in state "Atribuído".
+2021-04-21 16:36:13 | Error | Erro: invalid stimulus "ev_resolve" on object TT-007009 in state "Resolvido".
+2021-04-21 17:00:09 | Error | Erro: invalid stimulus "ev_resolve" on object TT-007007 in state "Fechado".
+2021-04-26 14:05:58 | Error | Erro: invalid stimulus "ev_resolve" on object TT-007101 in state "Resolvido".
+2021-04-27 10:20:56 | Error | Erro: invalid stimulus "ev_close" on object TT-007116 in state "Fechado".
+2021-04-27 10:21:00 | Error | Erro: invalid stimulus "ev_close" on object TT-007116 in state "Fechado".
+2021-04-27 10:21:08 | Error | Erro: invalid stimulus "ev_close" on object TT-007116 in state "Fechado".
+2021-04-29 09:39:38 | Error | Erro: invalid stimulus "ev_resolve" on object TT-007163 in state "Fechado".
+2021-04-29 09:39:59 | Error | Erro: invalid stimulus "ev_resolve" on object TT-007163 in state "Fechado".
+2021-05-05 06:36:24 | Error | Erro: invalid stimulus "ev_close" on object TT-007175 in state "Fechado".
+2021-05-05 06:36:27 | Error | Erro: invalid stimulus "ev_close" on object TT-007175 in state "Fechado".
+2021-05-06 22:48:13 | Error | Erro: invalid stimulus "ev_resolve" on object TT-007368 in state "Resolvido".
+2021-05-07 22:11:57 | Error | Erro: invalid stimulus "ev_assign" on object TT-007391 in state "Atribuído".
+2021-05-08 17:48:56 | Error | Erro: invalid stimulus "ev_resolve" on object TT-007403 in state "Resolvido".
+2021-05-09 10:45:25 | Error | Erro: invalid stimulus "ev_close" on object TT-006174 in state "Fechado".
+2021-05-09 10:45:27 | Error | Erro: invalid stimulus "ev_close" on object TT-006174 in state "Fechado".
+2021-05-10 07:45:28 | Error | Erro: invalid stimulus "ev_close" on object TT-007431 in state "Fechado".
+2021-05-15 16:03:47 | Error | Erro: invalid stimulus "ev_resolve" on object TT-007560 in state "Resolvido".
+2021-05-19 09:28:09 | Error | Unknown class ''
+2021-05-19 12:31:23 | Error | Erro: invalid stimulus "ev_close" on object TT-007620 in state "Fechado".
+2021-05-19 12:31:33 | Error | Erro: invalid stimulus "ev_close" on object TT-007620 in state "Fechado".
+2021-05-19 12:32:08 | Error | Erro: invalid stimulus "ev_close" on object TT-007620 in state "Fechado".
+2021-05-21 16:50:11 | Error | Erro: invalid stimulus "ev_resolve" on object TT-007677 in state "Fechado".
+2021-05-23 16:23:30 | Error | Erro: invalid stimulus "ev_resolve" on object TT-007728 in state "Fechado".
+2021-05-23 16:25:07 | Error | Erro: invalid stimulus "ev_resolve" on object TT-007728 in state "Fechado".
+2021-05-24 14:35:53 | Error | Unknown class ''
+2021-05-24 21:18:11 | Error | Unknown class ''
+2021-05-24 21:21:49 | Error | Unknown class ''
+2021-05-25 09:11:45 | Error | Erro: invalid stimulus "ev_close" on object TT-007762 in state "Fechado".
+2021-05-29 16:19:33 | Error | Erro: invalid stimulus "ev_resolve" on object TT-007860 in state "Fechado".
+2021-05-29 16:59:20 | Error | Erro: invalid stimulus "ev_close" on object TT-007855 in state "Fechado".
+2021-05-31 09:22:10 | Error | Unknown class ''
+2021-05-31 09:22:26 | Error | Unknown class ''
+2021-06-02 07:38:58 | Error | Erro: invalid stimulus "ev_close" on object TT-007923 in state "Fechado".
+2021-06-02 07:39:04 | Error | Erro: invalid stimulus "ev_close" on object TT-007923 in state "Fechado".
+2021-06-02 07:39:05 | Error | Erro: invalid stimulus "ev_close" on object TT-007923 in state "Fechado".
+2021-06-03 10:33:35 | Error | Erro: invalid stimulus "ev_close" on object TT-007943 in state "Fechado".
+2021-06-03 10:33:47 | Error | Erro: invalid stimulus "ev_close" on object TT-007943 in state "Fechado".
+2021-06-03 10:47:02 | Error | Unknown class ''
+2021-06-03 12:55:46 | Error | Unknown class ''
+2021-06-03 12:56:01 | Error | Unknown class ''
+2021-06-03 12:58:02 | Error | Unknown class ''
+2021-06-03 20:55:06 | Error | Erro: invalid stimulus "ev_close" on object TT-007959 in state "Fechado".
+2021-06-03 20:55:13 | Error | Erro: invalid stimulus "ev_close" on object TT-007959 in state "Fechado".
+2021-06-09 11:30:49 | Error | Unknown class ''
+2021-06-09 13:14:10 | Error | Unknown class ''
+2021-06-09 13:14:21 | Error | Unknown class ''
+2021-06-09 15:23:28 | Error | Erro: invalid stimulus "ev_assign" on object TT-008086 in state "Atribuído".
+2021-06-10 10:37:31 | Error | Unknown class ''
+2021-06-10 17:20:23 | Error | Unknown class ''
+2021-06-10 17:20:40 | Error | Unknown class ''
+2021-06-10 17:20:45 | Error | Unknown class ''
+2021-06-11 09:51:33 | Error | Erro: invalid stimulus "ev_close" on object TT-008103 in state "Fechado".
+2021-06-11 10:13:06 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008101 in state "Resolvido".
+2021-06-11 14:52:26 | Error | Unknown class ''
+2021-06-11 15:05:44 | Error | Unknown class ''
+2021-06-11 15:07:11 | Error | Unknown class ''
+2021-06-11 15:08:12 | Error | Unknown class ''
+2021-06-11 15:12:15 | Error | Unknown class ''
+2021-06-12 10:06:34 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008034 in state "Resolvido".
+2021-06-12 10:06:39 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008034 in state "Resolvido".
+2021-06-12 10:06:44 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008034 in state "Resolvido".
+2021-06-12 12:55:11 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008137 in state "Resolvido".
+2021-06-12 12:55:18 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008137 in state "Resolvido".
+2021-06-12 12:55:40 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008137 in state "Resolvido".
+2021-06-14 09:42:54 | Error | Unknown class ''
+2021-06-14 11:41:50 | Error | Unknown class ''
+2021-06-14 20:08:23 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008173 in state "Resolvido".
+2021-06-15 13:51:01 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008171 in state "Resolvido".
+2021-06-15 13:51:12 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008171 in state "Resolvido".
+2021-06-16 09:52:41 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008215 in state "Resolvido".
+2021-06-16 15:24:34 | Error | Erro: invalid stimulus "ev_assign" on object TT-008242 in state "Atribuído".
+2021-06-16 16:38:03 | Error | Unknown class ''
+2021-06-16 16:38:19 | Error | Unknown class ''
+2021-06-17 11:14:40 | Error | Unknown class ''
+2021-06-17 11:15:35 | Error | Unknown class ''
+2021-06-17 11:19:32 | Error | Unknown class ''
+2021-06-17 11:19:34 | Error | Unknown class ''
+2021-06-17 11:21:25 | Error | Unknown class ''
+2021-06-17 11:22:32 | Error | Unknown class ''
+2021-06-17 11:23:15 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008225 in state "Fechado".
+2021-06-17 11:50:28 | Error | Unknown class ''
+2021-06-17 12:02:29 | Error | Unknown class ''
+2021-06-18 10:06:26 | Error | Erro: invalid stimulus "ev_close" on object TT-008274 in state "Fechado".
+2021-06-18 11:01:46 | Error | Erro: invalid stimulus "ev_assign" on object TT-008278 in state "Atribuído".
+2021-06-18 11:01:51 | Error | Erro: invalid stimulus "ev_assign" on object TT-008278 in state "Atribuído".
+2021-06-18 11:48:11 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008270 in state "Resolvido".
+2021-06-18 11:48:23 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008270 in state "Resolvido".
+2021-06-20 16:32:45 | Error | Erro: invalid stimulus "ev_close" on object TT-008332 in state "Fechado".
+2021-06-20 21:16:20 | Error | Unknown class ''
+2021-06-21 10:12:39 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008248 in state "Fechado".
+2021-06-21 10:12:47 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008248 in state "Fechado".
+2021-06-21 15:48:32 | Error | Unknown class ''
+2021-06-23 08:38:13 | Error | Erro: invalid stimulus "ev_resolve" on object TT-008375 in state "Fechado".
+2021-06-23 15:07:13 | Error | Erro: invalid stimulus "ev_close" on object TT-008388 in state "Fechado".
+2021-06-23 16:10:55 | Error | Unknown class ''
+2021-06-24 13:48:32 | Error | Erro: invalid stimulus "ev_assign" on object TT-008405 in state "Atribuído".
+2021-06-26 05:10:11 | Error | Unknown class ''
+2021-06-26 05:14:10 | Error | Unknown class ''
+2021-06-26 05:14:11 | Error | Unknown class ''
+2021-06-26 05:14:18 | Error | Unknown class ''
+2021-09-23 06:56:45 | Error | Erro: invalid stimulus "ev_assign" on object TT-008505 in state "Atribuído".
+2022-08-23 12:59:52 | Error | Failed to log issue into the DB
+2022-08-23 12:59:52 | Error | Failed to issue SQL query: query = INSERT INTO `ntpriv_event` (`message`,`date`,`userinfo`,`realclass`) VALUES ('Failed to issue SQL query: query = SELECT COUNT(*) AS COUNT FROM (SELECT DISTINCT COALESCE(`Organization_ntorganization`.`id`, 0)  FROM `ntorganization` AS `Organization_ntorganization` WHERE 1 LIMIT 0, 4) AS _tatooine_, mysql_errno = 1146, mysql_error = Table \'nis_nt3.ntorganization\' doesn\'t exist', '2022-08-23 12:59:52', '', 'EventIssue'), mysql_errno = 1146, mysql_error = Table 'nis_nt3.ntpriv_event' doesn't exist

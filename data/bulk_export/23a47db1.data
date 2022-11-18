@@ -1,0 +1,14 @@
+<table class="listResults">
+<thead>
+<tr>
+<th>id (Primary Key)</th>
+<th>Type of account</th>
+<th>Contact (person)->First Name</th>
+<th>Contact (person)->Last Name</th>
+<th>Status</th>
+<th>Contact (person)->Organization</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td><span class="object-ref " title="NT3 user::1"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=UserLocal&id=1&">admin</a></span></td><td>NT3 user</td><td>Vidyadhar</td><td>Yellaram</td><td><span title="">Enabled</span></td><td><span class="object-ref " title="Organization::32"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=32&">Nectar Infotel</a></span></td></tr><tr><td><span class="object-ref " title="NT3 user::37"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=UserLocal&id=37&">rajeet.singh@nectarinfotel.com</a></span></td><td>NT3 user</td><td>Rajeet</td><td>Singh</td><td><span title="">Enabled</span></td><td><span class="object-ref " title="Organization::33"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=33&">Relience</a></span></td></tr><tr><td><span class="object-ref " title="NT3 user::38"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=UserLocal&id=38&">ravindra.maurya@nectarinfotel.com</a></span></td><td>NT3 user</td><td>Ravindra</td><td>Maurya</td><td><span title="">Enabled</span></td><td><span class="object-ref " title="Organization::33"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=33&">Relience</a></span></td></tr><tr><td><span class="object-ref " title="NT3 user::39"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=UserLocal&id=39&">sonali.kate@nectarinfotel.com</a></span></td><td>NT3 user</td><td>Sonali</td><td>Kate</td><td><span title="">Enabled</span></td><td><span class="object-ref " title="Organization::32"><a class="object-ref-link" href="https://nt3test.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=32&">Nectar Infotel</a></span></td></tr>

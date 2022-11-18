@@ -1,0 +1,62 @@
+<?php
+
+Dict::Add('FR FR', 'French', 'Français', array(
+	// Dictionary entries go here
+	'Menu:nt3Hub' => 'NT3 Hub',
+	'Menu:nt3Hub:Register' => 'Se connecter à NT3 Hub',
+	'Menu:nt3Hub:Register+' => 'Connectez-vous à NT3 Hub pour enregistrer cette instance d\'NT3',
+	'Menu:nt3Hub:Register:Description' => '<p>Connectez-vous à la communauté NT3 Hub!</br>Trouvez tout le contenu dont vous avez besoin, gérer vos instances d\'NT3 depuis un tableau de bord centralisé et déployez de nouvelles extensions.</br><br/>En vous connectant au Hub depuis cette page, vous transmettez au Hub des informations relatives à cette instance d\'NT3.</p>',
+	'Menu:nt3Hub:MyExtensions' => 'Extensions déployées',
+	'Menu:nt3Hub:MyExtensions+' => 'Voir la liste des extensions déployes sur cette instance',
+	'Menu:nt3Hub:BrowseExtensions' => 'Obtenir des extensions depuis NT3 Hub',
+	'Menu:nt3Hub:BrowseExtensions+' => 'Parcourir la listes des extensions disponibles sur NT3 Hub',
+	'Menu:nt3Hub:BrowseExtensions:Description' => '<p>Découvrez le magasin d\'extensions NT3 Hub !</br>Trouvez en quelques clics celles qui vous permettront de construire un NT3 sur mesure qui se conforme à vos processus.</br><br/>En vous connectant au Hub depuis cette page, vous transmettez au Hub des informations relatives à cette instance d\'NT3.</p>',
+	'nt3Hub:GoBtn' => 'Aller sur NT3 Hub',
+	'nt3Hub:CloseBtn' => 'Fermer',
+	'nt3Hub:GoBtn:Tooltip' => 'Naviguer vers www.nt3hub.io',
+	'nt3Hub:OpenInNewWindow' => 'Ouvrir NT3 Hub dans une nouvelle fenêtre',
+	'nt3Hub:AutoSubmit' => 'Ne plus me demander. La prochaine fois, aller sur NT3 Hub automatiquement.',
+	'UI:About:RemoteExtensionSource' => 'NT3 Hub',
+	'nt3Hub:Explanation' => 'En cliquant sur ce bouton, vous serez redirigé vers NT3 Hub.',
+	
+	'nt3Hub:BackupFreeDiskSpaceIn' => '%1$s d\'espace disque disponible sur %2$s.',
+	'nt3Hub:FailedToCheckFreeDiskSpace' => 'Echec de la vérification de l\'espace disque.',
+	'nt3Hub:BackupOk' => 'Sauvegarde Ok.',
+	'nt3Hub:BackupFailed' => 'Echec de la sauvegarde !',
+	'nt3Hub:Landing:Status' => 'Etat du déploiement',
+	'nt3Hub:Landing:Install' => 'Déploiement des extensions...',
+	'nt3Hub:CompiledOK' => 'Compilation réussie.',
+	'nt3Hub:ConfigurationSafelyReverted' => 'Une erreur a été détectée durant le déploiement!<br/>La configuration d\'NT3 n\'a PAS été modifiée.',
+	
+	'nt3Hub:InstalledExtensions' => 'Extensions déployées sur cette instance',
+	'nt3Hub:ExtensionCategory:Manual' => 'Extensions déployées manuellement',
+	'nt3Hub:ExtensionCategory:Manual+' => 'Les extensions ci-dessous ont été déployées en les copiant manuellement dans le répertoire %1$s d\'NT3:',
+	'nt3Hub:ExtensionCategory:Remote' => 'Extensions déployées depuis NT3 Hub',
+	'nt3Hub:ExtensionCategory:Remote+' => 'Les extensions ci-dessous ont été déployées depuis NT3 Hub:',
+	'nt3Hub:NoExtensionInThisCategory' => 'Il n\'y a pas d\'extension dans cette catégorie<br/><br>Avec NT3 Hub trouvez en quelques clics les extensions qui vous permettront de construire un NT3 sur mesure qui se conforme à vos processus.',
+	'nt3Hub:ExtensionNotInstalled' => 'Non installée',
+	'nt3Hub:GetMoreExtensions' => 'Obtenir des extensions depuis NT3 Hub...',
+	
+	'nt3Hub:LandingWelcome' => 'Félicitations! Les extensions ci-dessous ont été téléchargées depuis NT3 Hub et installées sur cette instance d\'NT3.',
+	'nt3Hub:GoBackTont3Btn' => 'Retourner dans NT3',
+	'nt3Hub:Uncompressing' => 'Décompression des extensions...',
+	'nt3Hub:InstallationWelcome' => 'Installation des extensions téléchargées depuis NT3 Hub',
+	'nt3Hub:DBBackupLabel' => 'Sauvegarde de l\'instance NT3',
+	'nt3Hub:DBBackupSentence' => 'Faire une sauvegarde de la base de données et des paramétrages d\'NT3',
+	'nt3Hub:DeployBtn' => 'Déployer !',
+	'nt3Hub:DatabaseBackupProgress' => 'Sauvegarde de l\'instance...',
+	
+	'nt3Hub:InstallationEffect:Install' => 'Version: %1$s sera installée.',
+	'nt3Hub:InstallationEffect:NoChange' => 'Version: %1$s déjà installée. Rien ne changera.',
+	'nt3Hub:InstallationEffect:Upgrade' => 'Sera <b>mise à jour</b> de version %1$s en version %2$s.',
+	'nt3Hub:InstallationEffect:Downgrade' => 'Sera <b>DEGRADEE</b> de version %1$s en version %2$s.',
+	'nt3Hub:InstallationEffect:MissingDependencies' => 'Cette extension ne peut pas être installée à cause de ses dépendences.',
+	'nt3Hub:InstallationEffect:MissingDependencies_Details' => 'Cette extension nécessite le(s) module(s): %1$s',
+	'nt3Hub:InstallationProgress:DatabaseBackup' => 'Sauvegarde de l\'instance NT3...',
+	'nt3Hub:InstallationProgress:ExtensionsInstallation' => 'Installation des extensions',
+	'nt3Hub:InstallationProgress:InstallationSuccessful' => 'Installation réussie !',
+	
+	'nt3Hub:InstallationStatus:Installed_Version' => '%1$s version: %2$s.',
+	'nt3Hub:InstallationStatus:Installed' => 'Installée',
+	'nt3Hub:InstallationStatus:Version_NotInstalled' => 'Version %1$s <b>NON</b> installée.'
+));

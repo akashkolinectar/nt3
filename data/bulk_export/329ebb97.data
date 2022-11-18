@@ -1,0 +1,13 @@
+<table class="listResults">
+<thead>
+<tr>
+<th>id (Primary Key)</th>
+<th>Customer</th>
+<th>Related Problem</th>
+<th>Error Code</th>
+<th>Symptom</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td><span class="object-ref " title="Known Error::1"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=KnownError&id=1&">Report not able to download</a></span></td><td><span class="object-ref " title="Organization::19"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=Organization&id=19&">DSI</a></span></td><td><span class="object-ref " title="Problem::198"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=Problem&id=198&">P-000198</a></span></td><td>&nbsp;</td><td><div >Report not able to download</div></td></tr>

@@ -1,0 +1,247 @@
+Child Site : Zango Boa Esperan‡a
+Parent Site : Bita SÆo Jos‚
+Child Site : Cacuaco C_Cultural
+Parent Site : Zona Verde 2
+Parent Site : Zona Verde 2
+Parent Site : BCA 7¦ Avinida
+Child Site : Petrangol Sodofil 
+Parent Site : Golf2
+Parent Site : Golf2
+Child Site : Macon
+Child Site : Cacuaco N. Urbaniza‡Æo
+Child Site : Wenza paradaise 
+Parent Site : Nova vida AT
+Parent Site : Nova vida AT
+Child Site : Noberto de Castro
+Child Site : Cazenga U1
+Parent Site : Mussulo 1
+Child Site : Mussulo 1
+Child Site : Morro do Cruz
+Parent Site : Golf IV 
+Parent Site : Golf IV
+Parent Site : Weza Paradaise 
+Child Site : Maianga DU_1
+Parent Site : Kilamba U 1 
+Parent Site : Estrada do Patriota 
+Child Site : Camama 1 Progresso
+Parent Site : Cazenga U1
+Parent Site : Intertransportes(Moagem)
+Child Site : Mussulo 2
+Parent Site : Maria Ceu
+Parent Site : Malange Central
+Parent Site : Golf 2 AT
+Parent Site : Loja Soyo
+Child Site : Petrangol AT
+Parent Site : Petrangol AT
+Parent Site : Nova Vida AT
+Child Site : Kikuxe Via Expresso
+Child Site : Viana Mir£
+Child Site : Terra Nova AT
+Parent Site : Sambizanga
+Parent Site : Sambizanga U
+Parent Site : ENSA
+Parent Site : ENSA
+Parent Site : ENSA
+Child Site : Alvalade AT
+Child Site : Catete
+Parent Site : Cabolombo Armaz‚m
+Parent Site : Calombulolca Morro 50
+Child Site : KM44
+Child Site : Cacuaco AT
+Parent Site : Farmacia Quinaxixe
+Child Site : Hotel Baia
+Parent Site : Cabolombo Armaz‚m
+Parent Site : Cabolombo Armaz‚m
+Parent Site : Cabo Ledo 2 (BB)
+Parent Site : Golf 2 AT
+Child Site : Talatona 137
+Child Site : Maria do ce£ 1  
+Parent Site : Cacuaco_B12_1
+Parent Site : Cacuaco_Mercado
+Parent Site : Kilamba U1 
+Child Site : Bita SÆo Jos‚  
+Parent Site : Muxima mobile bts
+Child Site : Golf2 Vale
+Child Site : Zango III Mobile BTS
+Child Site : Zango II  Mobile BTS
+Parent Site : Sapu2
+Child Site : Sapu2
+Child Site : Praia Am‚lia  
+Parent Site : paiget
+Child Site : Miracloulo
+Child Site : Inst.I.V
+Child Site : Kero store
+Parent Site : Sapu2
+Parent Site : Cacolo Malange
+Parent Site : Kuito(AT)
+Parent Site : Kuito(AT)
+Parent Site : Kifica2
+Child Site : Mabor1
+Parent Site : Caimbambo MVL
+Child Site : 11 de November
+Parent Site : Igreja Nazar‚
+Parent Site : Cucaco Monte
+Child Site : Vitoria Certa
+Parent Site : Golf V
+Child Site : Regedoria
+Child Site : Golf 28 Agosto
+Child Site : KM14
+Child Site : Escola 1§ Dezembro 2
+Parent Site : Mercado Mutumba1 (EIWA)
+Child Site : Mercado Mutumba1 (EIWA)
+Parent Site : estadioh
+Parent Site : Humpata AT
+Parent Site : Escola 1§ Dezembro 
+Parent Site : Escola 1§ Dezembro 
+Parent Site : Escola 1§ Dezembro 
+Child Site : Futungo
+Child Site : Marsal
+Parent Site : 11/Nov
+Parent Site : songanol bita estrade
+Parent Site : calemana 2
+Parent Site : KM14
+Parent Site : camama cimeterios
+Child Site : Bitaÿ
+Parent Site : centro emissior
+Child Site : Mussende KiKuxi
+Child Site : Reco Lixo
+Parent Site : km14 
+Parent Site : 11 novembore
+Parent Site : Jardim do edem
+Child Site : Col‚gio SÆo Benedito
+Parent Site : Zango   V
+Parent Site : Bom Jesus road
+Parent Site : Calaboloca Morro 50
+Child Site : Calaboloca Morro 50
+Parent Site : Lucala2
+Child Site : Lucala2
+Parent Site : Cambuze
+Cacuso
+Parent Site : Cacolo
+Cacuso
+Child Site : Cacolo
+Cacuso
+Parent Site : Malange(Catepa)
+Parent Site : Quiamgombe
+Child Site : Quiamgombe
+Parent Site : Mbanza Negage
+Parent Site : INCA
+Parent Site : Viana Cajurie
+Parent Site : Bita SÆo Jos‚
+Parent Site : Bita SÆo Jos‚
+Parent Site : Jornalitas
+Parent Site : camama chimbicado
+Child Site : Zango 2 - Instituto M‚dio
+Child Site : Cassenda Multichoice edificio 17
+Child Site : Prenda Pr‚dio Coopera‡Æo
+Parent Site : Inca
+Parent Site : Mbanza Negage
+Parent Site : Mbanza Negage
+Parent Site : Barrio Papelaso Zona 3 Nguengui
+Parent Site : Inca
+Parent Site : Inca
+Parent Site : Calemba II-Sapu
+Parent Site : Calemba II
+Child Site : ICNA
+Child Site : Mussulo 4
+Parent Site : Monte_Belo
+Child Site : Bailundu new9702
+Parent Site : Vila Nova Tchicala
+Child Site : Vila Nova Tchicala
+Child Site : Kuima
+Parent Site : Londuimbali_Rep
+Child Site : Londuimbali_Rep
+Parent Site : Bailundu new9702
+Child Site : Monte_Belo
+Parent Site : Kuima
+Parent Site : Cabassanlo
+Parent Site : Malongo MVC
+Parent Site : Nzassi (congo)
+Child Site : Malongo MVC
+Child Site : Viana Loja
+Parent Site : Cacuso-cacolo
+Parent Site : Capanda-rep
+Child Site : camama cimeterios
+Child Site : zango1
+Parent Site : Zango1
+Parent Site : ZEE
+Parent Site : Macongo 2
+Child Site : Lauca
+Child Site : Rep_Capanda
+Parent Site : Hospital A B Vida
+Child Site : Iiha 2
+Parent Site : Cabolombo Warehouse
+Parent Site : centro emissior
+Parent Site : U¡ge central
+Parent Site : U¡ge central
+Parent Site : U¡ge central
+Parent Site : Quimussadi
+Child Site : Quimussadi
+Child Site : E12
+Parent Site : IMNE
+Child Site : Makarenko
+Parent Site :  Escola 1§ de Dezembro
+Parent Site :  Estadio de football
+Parent Site : Cacula Repeater
+Parent Site : CASSUALALA MOV
+Parent Site : Alto dondo Mov
+Child Site : camama cimeterios
+Parent Site : Alto dondo Mov
+Parent Site : Estrada do Patriota
+Parent Site : Funda Cowboy 1
+Parent Site : Camama Progresso
+Parent Site : Mutäes AT
+Parent Site : Cacuaco (AT)
+Parent Site : Kikolo Pra‡a
+Parent Site : Panguila 2 (Backbone)
+Parent Site : Cabolombo Central 
+Parent Site : Cabolombo Central 
+Parent Site : Subesta‡Æo
+Parent Site : N. Sra. Do Monte
+Parent Site : Subesta‡Æo
+Parent Site : Subesta‡Æo
+Parent Site : N. Sra. Do Monte
+Child Site : Coreia 447 
+Parent Site : Estrada do Patriota
+Child Site : Jardim das rosas 
+Child Site : Zango EDII-10-4
+Child Site : Zango EDII-3-4
+Child Site : Zango EDIII-1-1
+Child Site : Viana Kaope
+Child Site : QuintalÆo do Petro 
+Child Site : Cemit‚rio 14
+Child Site : Viana Km 14 _2
+Child Site : Golf II Rasta 
+Child Site : Zango EDII-15-2
+Child Site : Zango Max 1
+Child Site : Kiosque MVC_Kero
+Child Site : Lj. Mvc Lg.Ambiente
+Child Site : Lj. Mvc Kero N.Vida
+Child Site : Nova Loja Mvc N.Vida
+Parent Site : Zango 5
+Parent Site : Golf 2 AT
+Parent Site : Zona Verde 2
+Parent Site : Viana AT
+Parent Site : Estrada Bom Jesus
+Child Site : Vila Flor ComissÆo 2
+Parent Site : Golf 2 AT
+Parent Site : Kikolo Pra‡a
+Child Site : Vila Flor ComissÆo 
+Parent Site : Cabo Ledo MVC BB
+Child Site : Zango EDII-10-1
+Child Site : Loja Mvc Zona Financeira
+Child Site : Loja da Ilha
+Parent Site : Sambizanga U
+Parent Site : Hospital A.Boavida
+Parent Site : Cabolombo Armaz‚m
+Parent Site : Bailundo N. centralidade 
+Parent Site : Huambo Central AT
+Parent Site : Huambo Central AT
+Child Site : Bairro da avia‡Æo 
+Child Site : Bailundo N. centralidade 
+Parent Site : Instituto Veterin rio
+Parent Site : Kuima 
+Parent Site : Muquixe
+Parent Site : Kuima 
+Child Site : Muquixe
+Parent Site : Muquixe

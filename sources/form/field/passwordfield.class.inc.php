@@ -1,0 +1,15 @@
+<?php
+
+namespace Combodo\nt3\Form\Field;
+
+use \Combodo\nt3\Form\Field\TextField;
+
+/**
+ * Description of PasswordField
+ *
+ * @author Guillaume Lajarige <guillaume.lajarige@combodo.com>
+ */
+class PasswordField extends TextField
+{
+
+}

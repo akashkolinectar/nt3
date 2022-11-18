@@ -1,0 +1,17 @@
+<table class="listResults">
+<thead>
+<tr>
+<th>id (Primary Key)</th>
+<th>Category</th>
+<th>Error code</th>
+<th>Key words</th>
+<th>Description</th>
+<th>Summary</th>
+<th>Title</th>
+<th>Category->Name</th>
+<th>Category->Full name</th>
+</tr>
+</thead>
+<tbody>
+
+<tr><td><span class="object-ref " title="FAQ::1"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=FAQ&id=1&">Problem#1</a></span></td><td><span class="object-ref " title="FAQ Category::1"><a class="object-ref-link" href="https://nt3.nectarinfotel.com/pages/UI.php?operation=details&class=FAQCategory&id=1&">what is NT3 problem management</a></span></td><td>c001</td><td>error</td><td><div class="HTML" ></div></td><td><div ></div></td><td>Problem#1</td><td>what is NT3 problem management</td><td>what is NT3 problem management</td></tr>

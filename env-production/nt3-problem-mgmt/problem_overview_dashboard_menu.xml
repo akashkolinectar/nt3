@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dashboard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <layout>DashboardLayoutTwoCols</layout>
+  <title>UI:ProblemMgmtMenuOverview:Title</title>
+  <cells xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    
+    <cell id="0">
+      <rank>0</rank>
+      <dashlets>
+        <dashlet id="0" xsi:type="DashletGroupByPie">
+          <rank>0</rank>
+          <title>UI-ProblemManagementOverview-ProblemByPriority</title>
+          <!-- <title>Last 20 days problems per priority</title> -->
+          <query>SELECT Problem</query>
+          <group_by>priority</group_by>
+          <style>pie</style>
+        </dashlet>
+      </dashlets>
+    </cell>
+    <cell id="1">
+      <rank>1</rank>
+      <dashlets>
+        <dashlet id="1" xsi:type="DashletGroupByBars">
+          <rank>0</rank>
+          <title>Problems by days</title>
+          <query>SELECT Problem</query>
+          <group_by>start_date:day_of_month</group_by>
+          <style>bars</style>
+        </dashlet>
+      </dashlets>
+    </cell>
+    <cell id="2">
+      <rank>2</rank>
+      <dashlets>
+        <dashlet id="2" xsi:type="DashletGroupByBars">
+          <rank>0</rank>
+          <title>UI-ProblemManagementOverview-ProblemByService</title>
+          <query>SELECT Problem</query>
+          <group_by>service_id</group_by>
+          <style>table</style>
+        </dashlet>
+      </dashlets>
+    </cell>
+    <cell id="3">
+      <rank>3</rank>
+      <dashlets>
+        <dashlet id="3" xsi:type="DashletGroupByTable">
+          <rank>0</rank>
+          <title>Problems by Agent</title>
+          <query>SELECT Problem WHERE status NOT IN ("closed","rejected")</query>
+          <group_by>agent_id</group_by>
+          <style>table</style>
+        </dashlet>
+      </dashlets>
+    </cell>
+    <cell id="4">
+      <rank>4</rank>
+      <dashlets>
+        <dashlet id="4" xsi:type="DashletGroupByTable">
+          <rank>0</rank>
+          <title>Problems by State</title>
+          <query>SELECT Problem WHERE status NOT IN ('closed','rejected')</query>
+          <group_by>status</group_by>
+          <style>table</style>
+        </dashlet>
+      </dashlets>
+    </cell>
+  </cells>
+</dashboard>

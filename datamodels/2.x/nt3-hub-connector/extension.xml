@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+	<extension_code>nt3-hub-connector</extension_code>
+	<version>0.0.4</version>
+	<label>NT3 Hub Connector</label>
+	<description>Extension to connect NT3 with the central nt3Hub platform</description>
+	<mandatory>false</mandatory>
+	<more_info_url></more_info_url>
+</extension>

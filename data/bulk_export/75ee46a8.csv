@@ -1,0 +1,14 @@
+"Name","Description","id (Primary Key)"
+"Administrator","Has the rights on everything (bypassing any control)",1
+"Change Approver","Person who could be impacted by some changes",9
+"Change Implementor","Person executing the changes",7
+"Change Supervisor","Person responsible for the overall change execution",8
+"Configuration Manager","Person in charge of the documentation of the managed CIs",3
+"Document author","Any person who could contribute to documentation",11
+"Portal power user","Users having this profile will have the rights to see all the tickets for a customer in the portal. Must be used in conjunction with other profiles (e.g. Portal User).",12
+"Portal user","Has the rights to access to the user portal. People having this profile will not be allowed to access the standard application, they will be automatically redirected to the user portal.",2
+"Problem Manager","Person analyzing and solving the current problems",6
+"REST Services User","Only users having this profile are allowed to use the REST Web Services (unless 'secure_rest_services' is set to false in the configuration file).",1024
+"Service Desk Agent","Person in charge of creating incident reports",4
+"Service Manager","Person responsible for the service delivered to the [internal] customer",10
+"Support Agent","Person analyzing and solving the current incidents",5

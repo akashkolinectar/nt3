@@ -1,0 +1,95 @@
+ID : Old Site Id Site: Província TicketId: Tipo de Site 
+ID : 111 Site: Bengo TicketId: GreenField 
+ID : 1409 Site: Benguela TicketId: GreenField 
+ID : 1404 Site: Alto Pundo 
+ID : 1307 Site: Huambo TicketId: GreenField 
+ID : 1357 Site: Bairro Toco 
+ID : 890 Site: Banga 
+ID : 610 Site: Belo Horizonte 
+ID : 1505 Site: Bibala Rep 
+ID : 1506 Site: Bibala vila 
+ID : 891 Site: Bolongongo 
+ID : 336 Site: Buengas 
+ID : 765 Site: Luanda TicketId: GreenField 
+ID : 552 Site: Luanda TicketId: Rooftop 
+ID : 520 Site: Luanda TicketId: Rooftop 
+ID : 769 Site: Cachingues 
+ID : 1386 Site: Cada 
+ID : 339 Site: Calai 
+ID : 291 Site: Luanda TicketId: GreenField 
+ID : 950 Site: Camaxilo 
+ID : 387 Site: Cambuengo 
+ID : 345 Site: Camissombo 
+ID : 768 Site: Cangalo 
+ID : 1350 Site: Carive Sul 
+ID : 316 Site: Cassange 
+ID : 888 Site: Cassongue 
+ID : 1313 Site: Lunda Sul TicketId: GreenField 
+ID : 853 Site: Caungula 
+ID : 1343 Site: Huíla TicketId: GreenField 
+ID : 612 Site: Bié TicketId: GreenField 
+ID : 1509 Site: Chinhama 
+ID : 343 Site: Chitembo 
+ID : 613 Site: Chiuca 
+ID : 614 Site: Chivaulo 
+ID : 1425 Site: Huíla TicketId: GreenField 
+ID : 1417 Site: Comuna da Palanca 
+ID : 219 Site: Cuanza Sul TicketId: GreenField 
+ID : 340 Site: Cuangar 
+ID : 342 Site: Cuito Cuanavale 
+ID : 693 Site: Huíla TicketId: RoofTop 
+ID : 686 Site: Huíla TicketId: GreenField 
+ID : 1429 Site: Estacao Humpata 
+ID : 616 Site: Bié TicketId: GreenField 
+ID : 99 Site: Luanda TicketId: GreenField 
+ID : 1385 Site: Ichinga 
+ID : 619 Site: Kangote 
+ID : 620 Site: Kapamba 
+ID : 341 Site: Katuitui 
+ID : 622 Site: Kayeye 
+ID : 420 Site: Luanda TicketId: GreenField 
+ID : 465 Site: Kikudo 
+ID : 900 Site: Kuaba Nzogi 
+ID : 624 Site: Kwanza 
+ID : 902 Site: Luquembo 
+ID : 626 Site: Malengue 
+ID : 512 Site: Luanda TicketId: GreenField 
+ID : 1416 Site: Miradouro da Leba 
+ID : 1364 Site: Mitcha 3 
+ID : 627 Site: Muinha 
+ID : 317 Site: Munenga 
+ID : 628 Site: Muquinda 
+ID : 822 Site: Mussende cidade 
+ID : 569 Site: Luanda TicketId: GreenField 
+ID : 26 Site: Luanda TicketId: GreenField 
+ID : 948 Site: Muxinda Capenda 
+ID : 1402 Site: Ngombo 
+ID : 1022 Site: Luanda TicketId: Indoor 
+ID : 1508 Site: Pambangala  
+ID : 377 Site: Luanda TicketId: GreenField 
+ID : 800 Site: Cuanza Norte TicketId: GreenField 
+ID : 808 Site: Cuanza Norte TicketId: GreenField 
+ID : 38 Site: Luanda TicketId: RoofTop 
+ID : 1333 Site: Benguela TicketId: GreenField 
+ID : 893 Site: Quiculungo 
+ID : 1363 Site: Quiolo 
+ID : 318 Site: Quissongo 
+ID : 1508 Site: Quissongo Fazenda Leoma 
+ID : 942 Site: Quissongue 
+ID :  Site: Lunda Sul TicketId: GreenField 
+ID : 943 Site: Samba Lucala 
+ID : 1384 Site: Sanga 
+ID : 289 Site: Luanda TicketId: GreenField 
+ID : 238 Site: Malanje TicketId: GreenField 
+ID : 96 Site: Luanda TicketId: GreenField 
+ID : 633 Site: Sete Casas 
+ID : 697 Site: Huíla TicketId: GreenField 
+ID : 816 Site: Cuanza Sul TicketId: GreenField 
+ID : 951 Site: Terreiro 
+ID : 257 Site: Uíge TicketId: GreenField 
+ID : 728 Site: Luanda TicketId: GreenField 
+ID : 761 Site: Luanda TicketId: GreenField 
+ID : 1197 Site: Luanda TicketId: GreenField 
+ID : 1138 Site: Luanda TicketId: GreenField 
+ID : 288 Site: Luanda TicketId: GreenField 
+ID : 403 Site: Luanda TicketId: GreenField 
